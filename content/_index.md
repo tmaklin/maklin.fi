@@ -16,10 +16,5 @@ focuses on common human pathogens that are deemed high-risk due to
 [antimicrobial
 resistance](https://www.who.int/news/item/27-02-2017-who-publishes-list-of-bacteria-for-which-new-antibiotics-are-urgently-needed).
 
-## News
-Feb 2023
-- New preprint: <em>Themisto: a scalable colored k-mer index for sensitive pseudoalignment against hundreds of thousands of bacterial genomes</em> available from [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.02.24.529942v1).
-- I am visiting the [Pathogen Informatics and Modelling](https://bacpop.org) group at the EMBL-EBI until July 2023.
-
 ## Contact
 You can reach me at <script src="js/contact_me.js"></script><noscript>[Turn on JavaScript to see my email address.]</noscript> or via [Twitter](https://twitter.com/themaklin).
