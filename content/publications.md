@@ -12,7 +12,7 @@ __Themisto: a scalable colored k-mer index for sensitive pseudoalignment against
 
 Jarno N Alanko, Jaakko Vuohtoniemi, __Tommi M&auml;klin__, and Simon Puglisi
 
-preprint, [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.02.24.529942v1), 2023
+[Bioinformatics](https://academic.oup.com/bioinformatics/article/39/Supplement_1/i260/7210444), 2023
 
 [Themisto](https://github.com/algbio/themisto) is a method for both building and querying colored de Bruijn graphs that was originally introduced in my [mGEMS paper](https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.000691) in 2021. The 2023 version of Themisto implements an order of magnitude faster build and query algorithms than the state-of-the-art at the time, and introduces a new hybrid method of pseudoalignment that combines ideas from existing algorithms.
 
