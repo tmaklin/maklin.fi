@@ -16,6 +16,12 @@ copyright = "&copy; Copyright 2023, Tommi M&auml;klin"
 # Main menu items
 [menu]
   [[menu.main]]
+    identifier = "blog"
+    name = "Blog"
+    title = "blog"
+    url = "/post"
+    weight = -120
+  [[menu.main]]
     identifier = "software"
     name = "Software"
     title = "software"
