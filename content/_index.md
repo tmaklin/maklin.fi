@@ -15,7 +15,7 @@ human pathogens that are deemed high-risk due to [antimicrobial
 resistance](https://www.who.int/news/item/27-02-2017-who-publishes-list-of-bacteria-for-which-new-antibiotics-are-urgently-needed).
 
 ## Contact
-You can reach me at <script src="js/contact_me.js"></script><noscript>[Turn on JavaScript to see my email address.]</noscript> or via [Twitter](https://twitter.com/themaklin).
+You can reach me at <script src="js/contact_me.js"></script><noscript>[Turn on JavaScript to see my email address.]</noscript> or via [Mastodon](https://fosstodon.org/@themaklin).
 
 ## Blog
 Jul 21 2023 &mdash; <a href="https://www.bacpop.org/guides/building_trees_with_ska/">Building trees with SKA (external).</a>
