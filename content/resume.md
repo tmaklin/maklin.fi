@@ -19,13 +19,13 @@ PhD in computer science with research experience in computational and theoretica
 ### Skills {#skills}
 
 * Creative problem solving
-  : Assertively exploit wireless initiatives rather than synergistic core competencies.
+  : Skilled in identifying data-driven solutions quickly and developing them into finished products.
 
 * Data presentation
-  : Credibly streamline mission-critical value with multifunctional functionalities.
+  : Experience in presenting and publishing research data and results in international venues.
 
 * Project management
-  : Proven ability to plan and execute a variety of research and other projects, both in teams and independently.
+  : Proven ability to plan and execute a research and software development projects, both in teams and independently.
 
 -------
 
