@@ -23,17 +23,36 @@ PhD in computer science with research experience in computational and theoretica
   : Experience in presenting and publishing research data and results in international venues.
 
 * Project management
-  : Proven ability to plan and execute a research and software development projects, both in teams and independently.
+  : Proven ability to plan and execute research and software development projects, both in teams and independently.
 
 -------
 
 ### Technical {#technical}
 
-| | |
-| ---- | --------------- | -------------------------- |
-| C++  | git             | Bioinformatics             |
-| R    | LaTeX           | Probabilistic modelling    |
-| Stan<img width=20/> | Shell scripting<img width=20/> | High-performance computing |
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-0lax">C++</td>
+    <td class="tg-0lax">git</td>
+    <td class="tg-0lax">Bioinformatics</td>
+  </tr>
+</tbody>
+<tbody>
+  <tr>
+    <td class="tg-0lax">R</td>
+    <td class="tg-0lax">LaTeX</td>
+    <td class="tg-0lax">Probabilistic modelling</td>
+  </tr>
+</tbody>
+<tbody>
+  <tr>
+    <td class="tg-0lax">Stan&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0lax">Shell scripting&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0lax">High-performance computing</td>
+  </tr>
+</tbody>
+</table>
+
 ------
 
 ### Experience {#experience}
