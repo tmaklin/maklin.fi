@@ -11,13 +11,11 @@ draft: false
 ------
 
 ### Profile {#profile}
-
 PhD in computer science with research experience in computational and theoretical modelling of biological data. I do statistics, bacterial genomics, and bioinformatics software development.
 
 ------
 
 ### Skills {#skills}
-
 * Creative problem solving
   : Skilled in identifying data-driven solutions quickly and developing them into finished products.
 
@@ -39,7 +37,6 @@ PhD in computer science with research experience in computational and theoretica
 ------
 
 ### Experience {#experience}
-
 University of Helsinki
 : *Postdoctoral researcher*  
   __Jan 2023-ongoing__  
@@ -76,7 +73,6 @@ pipelines. Founded and operated a one-man company.
 
 -----
 ### Volunteer experience
-
 Shop steward
 : *University of Helsinki*  
  __2023-2024__  
@@ -87,7 +83,6 @@ the employer. Developed communities of workers.
 -----
 
 ### Contact {#footer}
-
 Tommi M&auml;klin -- <script src="/js/contact_me.js"></script><noscript>[Turn on JavaScript to see my email address.]</noscript> -- <script src="/js/call_me.js"></script><noscript>[Turn on JavaScript to see my phone number.]</noscript> -- [<i class="fab fa-linkedin-in fa-1x text-muted"></i>](https://linkedin.com/in/tmaklin)
 
 ------
