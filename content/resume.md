@@ -4,7 +4,7 @@ date: 2023-10-17T13:27:01Z
 draft: false
 ---
 > &ZeroWidthSpace;  
-> &ZeroWidthSpace;[Download PDF](/documents/resume_placeholder.pdf)  
+> &ZeroWidthSpace;[Download PDF](/documents/resume_tommi_maklin_2023_10_17.pdf)  
 > &ZeroWidthSpace;<script src="/js/contact_me.js"></script><noscript>[Turn on JavaScript to see my email address.]</noscript>  
 > &ZeroWidthSpace;<script src="/js/call_me.js"></script><noscript>[Turn on JavaScript to see my phone number.]</noscript>  
 
@@ -55,7 +55,7 @@ PhD in computer science with research experience in computational and theoretica
 
 ------
 
-### Experience {#experience}
+### Research experience {#experience}
 University of Helsinki
 : *Postdoctoral researcher*  
   __Jan 2023-ongoing__  
@@ -74,6 +74,9 @@ results in scientific journals and presented at international
 conferences.
 <br><br>
 
+-----
+
+### Professional experience {#employment}
 Heldata oy
 : *Part-time entrepreneur*  
   __2018-2022__  
@@ -91,6 +94,7 @@ businesses and organizations in automating data analysis
 pipelines. Founded and operated a one-man company.
 
 -----
+
 ### Volunteer experience
 Shop steward
 : *University of Helsinki*  
