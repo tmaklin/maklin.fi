@@ -31,12 +31,11 @@ PhD in computer science with research experience in modelling of biological data
 
 ### Technical {#technical}
 
-1. C++
-1. R
-1. Stan
-1. git
-1. Shell scripting
-1. High-performance computing
+| | |
+| ---- | --------------- | -------------------------- |
+| C++  | git             | Bioinformatics             |
+| R    | LaTeX           | Probabilistic modelling    |
+| Stan<img width=20/> | Shell scripting<img width=20/> | High-performance computing |
 ------
 
 ### Experience {#experience}
