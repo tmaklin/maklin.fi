@@ -128,10 +128,10 @@ Six months salary, 2021
 2019 *International conference on machine learning (ICML)*
 
 #### Boards and committees
-: Doctoral school in natural sciences, University of Helsinki  
+: __Doctoral school in natural sciences, University of Helsinki__  
 Board member, 2020--2021
 
-: Doctoral programme in Computer Science, University of Helsinki  
+: __Doctoral programme in Computer Science, University of Helsinki__  
 Board member, 2020--2021
 
 -----
@@ -175,7 +175,7 @@ Variable selection in Bayesian regression models with relative centrality, [tmak
 ### Media coverage {#mediacoverage}
 #### Newspapers with national reach
 : Sairaalabakteeri ei tartu terveisiin vastasyntyneisiin, kertoo tutkimus  
-Helsingin Sanomat, Helsinki, Finland, 8 February 2023
+*Helsingin Sanomat*, Helsinki, Finland, 8 February 2023
 
 -----
 
