@@ -1,6 +1,6 @@
 ---
 title: "Resume"
-date: 2023-10-16T17:27:01Z
+date: 2023-10-17T13:27:01Z
 draft: false
 ---
 > &ZeroWidthSpace;  
@@ -74,23 +74,21 @@ Designed and taught a 3-day statistics introductory course for the tax
 avoidance unit of the Finnish Tax Administration. Consulted small
 businesses and organizations in automating data analysis
 pipelines. Founded and operated a one-man company.
-<br><br>
 
 -----
 ### Volunteer experience
 
 Shop steward
-: *Faculty of Science, University of Helsinki*    
+: *University of Helsinki*  
  __2023-2024__  
-Shop stewards offer guidance and support to union members in
-problematic situations at work. They negotiate with representatives of
-the employer and develop communities (from [HYT
-website](https://tieteentekijat.fi/en/huart/shop-stewards/)).
+Offered guidance and support to union members in
+problematic situations at work. Negotiated with representatives of
+the employer. Developed communities of workers.
 
 -----
 
-### Footer {#footer}
+### Contact {#footer}
 
-Tommi M&auml;klin -- <script src="/js/contact_me.js"></script><noscript>[Turn on JavaScript to see my email address.]</noscript> -- <script src="/js/call_me.js"></script><noscript>[Turn on JavaScript to see my phone number.]</noscript>
+Tommi M&auml;klin -- <script src="/js/contact_me.js"></script><noscript>[Turn on JavaScript to see my email address.]</noscript> -- <script src="/js/call_me.js"></script><noscript>[Turn on JavaScript to see my phone number.]</noscript> -- [<i class="fab fa-linkedin-in fa-1x text-muted"></i>](https://linkedin.com/in/tmaklin)
 
 ------
