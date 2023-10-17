@@ -35,8 +35,11 @@ hugo
 
 mv public $sitename
 
+## Create the output folder if it doesn't exist
+mkdir -p static/documents
+
 if command -v tigz > /dev/null; then
-    tar --use-compress-program="tigz -12" -cvf $sitename".tar" $sitename
+    tar --use-compress-program="tigz -12" -cvf $sitename".tar.gz" $sitename
 else
-    tar --use-compress-program="tigz -12" -zcvf $sitename".tar" $sitename
+    tar -zcvf $sitename".tar.gz" $sitename
 fi
