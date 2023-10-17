@@ -38,8 +38,8 @@ are also a part of the healthy human gut microbiome.
 __European Bioinformatics Institute, Hinxton, Cambridgeshire, UK__
 : Visiting postdoctoral fellow, Jan 2023--July 2023  
 
-: Visited the Pathogen Informatics and Modelling group of
-Dr John Lees through a Theory@EMBL program.
+: I visited the Pathogen Informatics and Modelling group led by
+Dr John Lees through the Theory@EMBL program.
 
 __University of Helsinki, Helsinki, Finland__
 : Doctoral researcher, 2018--2022  
