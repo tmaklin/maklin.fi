@@ -12,7 +12,7 @@ draft: false
 
 ### Profile {#profile}
 
-PhD in computer science with research experience in modelling of biological data. I do statistics, bacterial genomics, and bioinformatics software development.
+PhD in computer science with research experience in computational and theoretical modelling of biological data. I do statistics, bacterial genomics, and bioinformatics software development.
 
 ------
 
