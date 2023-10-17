@@ -4,7 +4,7 @@ date: 2023-10-17T13:27:01Z
 draft: false
 ---
 > &ZeroWidthSpace;  
-> &ZeroWidthSpace;[Download PDF](/documents/cv_tommi_maklin_2023-08-02.pdf)  
+> &ZeroWidthSpace;[Download PDF](/documents/resume_placeholder.pdf)  
 > &ZeroWidthSpace;<script src="/js/contact_me.js"></script><noscript>[Turn on JavaScript to see my email address.]</noscript>  
 > &ZeroWidthSpace;<script src="/js/call_me.js"></script><noscript>[Turn on JavaScript to see my phone number.]</noscript>  
 
