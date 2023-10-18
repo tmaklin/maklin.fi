@@ -15,7 +15,7 @@ md_in=tmp-in.md
 echo "# Tommi M&auml;klin" > $md_in
 echo "## Postdoctoral researcher" >> $md_in
 echo -e "\n------\n" >> $md_in
-sed '1,7d' content/resume.md | sed 's/[&]ZeroWidthSpace[;]//g' >> $md_in
+sed '1,9d' content/resume.md | sed 's/[&]ZeroWidthSpace[;]//g' >> $md_in
 sed -i "s/<script src=\"\/js\/contact_me.js\"><\/script><noscript>[[]Turn on JavaScript to see my email address.[]]<\/noscript>/$1/g" $md_in
 sed -i "s/<script src=\"\/js\/call_me.js\"><\/script><noscript>[[]Turn on JavaScript to see my phone number.[]]<\/noscript>/$2/g" $md_in
 ##sed -i "s/<br><br>//g" $md_in
@@ -37,7 +37,8 @@ sed -i "s/resume_placeholder.pdf/$resume_filename.pdf/g" content/resume.md
 ## Convert the academic CV to a pdf
 md_in=tmp-in.md
 echo "# Tommi M&auml;klin" > $md_in
-sed '1,7d' content/academic-cv.md | sed 's/[&]ZeroWidthSpace[;]//g' >> $md_in
+sed '1,9d' content/academic-cv.md | sed 's/^>[[:space:]]*[&]ZeroWidthSpace[;][[:space:]]*$//g' >> $md_in
+sed -i 's/^<button.*$//g' $md_in
 sed -i 's/^[>]//g' $md_in
 sed -i "s/<script src=\"\/js\/contact_me.js\"><\/script><noscript>[[]Turn on JavaScript to see my email address.[]]<\/noscript>/$1/g" $md_in
 sed -i "s/<script src=\"\/js\/call_me.js\"><\/script><noscript>[[]Turn on JavaScript to see my phone number.[]]<\/noscript>/$2/g" $md_in

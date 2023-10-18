@@ -3,8 +3,10 @@ title: "Academic CV"
 date: 2023-10-17T13:27:01Z
 draft: false
 ---
+> <button type="button" name="resume-switcher" onclick="location.href='/resume'">Switch to Resume</button>
 > &ZeroWidthSpace;  
 > &ZeroWidthSpace;[Download PDF](/documents/academic_cv_placeholder.pdf)  
+> &ZeroWidthSpace;  
 > &ZeroWidthSpace;<script src="/js/contact_me.js"></script><noscript>[Turn on JavaScript to see my email address.]</noscript>  
 > &ZeroWidthSpace;<script src="/js/call_me.js"></script><noscript>[Turn on JavaScript to see my phone number.]</noscript>  
 
