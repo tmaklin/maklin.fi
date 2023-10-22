@@ -5,8 +5,7 @@ draft: false
 ---
 > <button type="button" name="resume-switcher" onclick="location.href='/resume'">Switch to Resume</button>
 > &ZeroWidthSpace;  
-> &ZeroWidthSpace;[Download PDF](/documents/academic_cv_placeholder.pdf)  
-> &ZeroWidthSpace;  
+> &ZeroWidthSpace;[Download PDF](/documents/academic_cv_tommi_maklin_2023_10_18.pdf)  
 > &ZeroWidthSpace;<script src="/js/contact_me.js"></script><noscript>[Turn on JavaScript to see my email address.]</noscript>  
 > &ZeroWidthSpace;<script src="/js/call_me.js"></script><noscript>[Turn on JavaScript to see my phone number.]</noscript>  
 
