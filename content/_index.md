@@ -17,7 +17,7 @@ resistance](https://www.who.int/news/item/27-02-2017-who-publishes-list-of-bacte
 You can reach me at <script src="js/contact_me.js"></script><noscript>[Turn on JavaScript to see my email address.]</noscript> or via [Matrix](https://matrix.to/#/@temaklin:cafe.maklin.fi).
 
 ## Blog
-Dec 12 2023 &mdash; <a href="/post/software-development/2023-12-12_cross-compiling-c++-binaries-for-macOS-x86_64-and-arm64/">Cross-compiling C++ binaries for macOS arm64 and x86_64</a>
+Dec 12 2023 &mdash; <a href="/post/software-development/2023-12-12_cross-compiling-c++-binaries-for-macos-x86_64-and-arm64/">Cross-compiling C++ binaries for macOS arm64 and x86_64</a>
 <br>
 Oct 22 2023 &mdash; <a href="/post/sysadmin/2023-10-22_how-to-add-services-on-openbsd/">How to cleanly add services on OpenBSD</a>
 <br>
