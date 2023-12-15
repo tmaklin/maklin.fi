@@ -91,6 +91,10 @@ pipelines. Founded and operated a one-man company.
 &nbsp;
 Peer-reviewed journal articles
 
+: A novel prophage-like insertion element within yabG triggers early entry into sporulation in _Clostridium botulinum_  
+FP Douillard, I Martins Portinha, Y Derman, C Woudstra, __T M&auml;klin__, MB Dorner, H Korkeala, AO Henriques, M Lindstr&ouml;m  
+*Viruses* (2023), doi: [10.3390/v15122431](https://doi.org/10.3390/v15122431)
+
 : Themisto: a scalable colored _k_-mer index for sensitive pseudoalignment against
 hundreds of thousands of bacterial genomes  
 JN Alanko, J Vuohtoniemi, __T M&auml;klin__, Simon J Puglisi  
@@ -186,10 +190,6 @@ Taxonomic profiler with lineage-level resolution, [PROBIC/mSWEEP](https://github
 *With Jarno N Alanko & others*  
 Pseudoaligner and _k_-mer index for short-read sequencing data, [algbio/Themisto](https://github.com/algbio/Themisto)
 
-: __ska.rust__  
-*With John Lees & others*  
-Sequence alignment using split _k_-mers, [bacpop/ska.rust](https://github.com/bacpop/ska.rust)
-
 : __cpprate__  
 *Main contributor*  
 Variable selection in Bayesian regression models with relative centrality, [tmaklin/cpprate](https://github.com/tmaklin/cpprate)
@@ -214,10 +214,10 @@ Shop steward, 2023--2024
 ### Volunteer experience {#volunteering}
 &nbsp;
 : __Finnish union of university researchers and teachers__  
-Deputy board member, 2023
+Board member, 2024 &SmallCircle; Deputy board member, 2023
 
 : __Helsinki university researchers and teachers association__  
-Vice chair, 2023 &SmallCircle; Board member, 2022--2023 &SmallCircle; Deputy board member 2020--2021
+Vice chair, 2023 &SmallCircle; Board member, 2022--2025 &SmallCircle; Deputy board member 2020--2021
 
 : __University of Helsinki PhD students association__  
 Chair, 2020--2021 &SmallCircle; Secretary 2022
