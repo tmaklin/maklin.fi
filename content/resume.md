@@ -5,7 +5,7 @@ draft: false
 ---
 > <button type="button" name="cv-switcher" onclick="location.href='/academic-cv'">Switch to Academic CV</button>
 > &ZeroWidthSpace;  
-> &ZeroWidthSpace;[Download PDF](/documents/resume_tommi_maklin_2023_10_18.pdf)  
+> &ZeroWidthSpace;[Download PDF](/documents/resume_tommi_maklin_2023_12_15.pdf)  
 > &ZeroWidthSpace;<script src="/js/contact_me.js"></script><noscript>[Turn on JavaScript to see my email address.]</noscript>  
 > &ZeroWidthSpace;<script src="/js/call_me.js"></script><noscript>[Turn on JavaScript to see my phone number.]</noscript>  
 

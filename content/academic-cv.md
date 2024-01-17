@@ -5,7 +5,7 @@ draft: false
 ---
 > <button type="button" name="resume-switcher" onclick="location.href='/resume'">Switch to Resume</button>
 > &ZeroWidthSpace;  
-> &ZeroWidthSpace;[Download PDF](/documents/academic_cv_tommi_maklin_2023_10_18.pdf)  
+> &ZeroWidthSpace;[Download PDF](/documents/academic_cv_tommi_maklin_2023_12_15.pdf)  
 > &ZeroWidthSpace;<script src="/js/contact_me.js"></script><noscript>[Turn on JavaScript to see my email address.]</noscript>  
 > &ZeroWidthSpace;<script src="/js/call_me.js"></script><noscript>[Turn on JavaScript to see my phone number.]</noscript>  
 
@@ -89,6 +89,13 @@ pipelines. Founded and operated a one-man company.
 
 ### Publications {#publications}
 &nbsp;
+Preprints
+: _Escherichia coli_ colonisation diversity and impact of antibiotic use in Punjab, Pakistan: A cross-sectional genomic cohort study  
+T Khawaja&#176;, __T M&auml;klin&#176;__, T Kallonen&#176;, RA Gladstone, AK P&ouml;ntine, S Mero, HA Thorpe, &Oslash; Samuelsen, J Parkhill, M Izhar, WM Akhtar, J Corander, and A Kantele  
+&#176; joint first authors  
+*preprint* (2024), available at SSRN: [10.2139/ssrn.4683844](https://dx.doi.org/10.2139/ssrn.4683844)
+<br><br>
+
 Peer-reviewed journal articles
 
 : A novel prophage-like insertion element within yabG triggers early entry into sporulation in _Clostridium botulinum_  
