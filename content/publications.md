@@ -7,6 +7,16 @@ draft: false
 View all of my publications on [Google Scholar](https://scholar.google.com/citations?user=snMrAPkAAAAJ&hl=en&oi=ao).
 
 ## Highlights
+### 2024
+**_Escherichia coli_ colonisation diversity and impact of antibiotic use in Punjab, Pakistan: A cross-sectional genomic cohort study**
+
+Tamim Khawaja&#176;, __Tommi M&auml;klin&#176;__, Teemu Kallonen&#176;, Rebecca A Gladstone, Anna K P&ouml;ntine, Sointu Mero, Harry A Thorpe, &Oslash;rjan Samuelsen, Julian Parkhill, Mateen Izhar, Waheed M Akhtar, Jukka Corander, and Anu Kantele
+
+&#176; joint first authors  
+preprint, available from [ssrn](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4683844).
+
+We investigated the impact of antimicrobial usage on the diversity of _E. coli_ strain carriage in a cross-sectional cohort from the Punjab province of Pakistan. Our results highlight notable differences in _E. coli_ competition and carriage compared to genomic cohorts from western and northen Europe. In particular the European-endemic non-MDR clinical strains ST73 and ST95 are nearly completely absent in Pakistan, and the prevalence of the MDR clinical strains ST69 and ST131 is highly reduced and modulated by recent antibiotic intake.
+
 ### 2023
 __Themisto: a scalable colored k-mer index for sensitive pseudoalignment against hundreds of thousands of bacterial genomes__
 

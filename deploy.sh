@@ -46,7 +46,7 @@ sed -i "s/<br><br>//g" $md_in
 sed -i "s/$2.*$/$2/g" $md_in
 sed -i 's/^Peer/#### Peer/g' $md_in
 sed -i 's/^Book/#### Book/g' $md_in
-sed -i 's/^Boards/#### Boards/g' $md_in
+sed -i 's/^Boards/<br>\n#### Boards/g' $md_in
 sed -i 's/^[&]nbsp[;]$//g' $md_in
 sed -i 's/^[*]Main[[:space:]]contributor[*]/Main contributor/g' $md_in
 sed -i 's/^[*]With[[:space:]]\(.*[&]\) others[*]/With \1 others/g' $md_in
