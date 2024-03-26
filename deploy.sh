@@ -44,6 +44,9 @@ sed -i "s/<script src=\"\/js\/contact_me.js\"><\/script><noscript>[[]Turn on Jav
 sed -i "s/<script src=\"\/js\/call_me.js\"><\/script><noscript>[[]Turn on JavaScript to see my phone number.[]]<\/noscript>/$2/g" $md_in
 sed -i "s/<br><br>//g" $md_in
 sed -i "s/$2.*$/$2/g" $md_in
+sed -i 's/^Preprints/#### Preprints/g' $md_in
+sed -i 's/^Manuscripts in press/#### Manuscripts in press/g' $md_in
+sed -i 's/^Manuscripts under/#### Manuscripts under/g' $md_in
 sed -i 's/^Peer/#### Peer/g' $md_in
 sed -i 's/^Book/#### Book/g' $md_in
 sed -i 's/^Boards/<br>\n#### Boards/g' $md_in
