@@ -96,6 +96,17 @@ T Khawaja&#176;, __T M&auml;klin&#176;__, T Kallonen&#176;, RA Gladstone, AK P&o
 *preprint* (2024), available at SSRN: [10.2139/ssrn.4683844](https://dx.doi.org/10.2139/ssrn.4683844)
 <br><br>
 
+Manuscripts in press
+
+: Exploring the paediatric nasopharyngeal bacterial microbiota with culture-based MALDI-TOF mass spectrometry and targeted metagenomic sequencing  
+P Sreymom, T Kallonen, __T M&auml;klin__, P Sar, J Hopkins, S Soeng, T Miliya, CL Ling, SD Bentley, J Corander, and P Turner  
+*mBio* (2024)
+
+: Pan-pathogen deep sequencing of nosocomial bacterial pathogens during the early COVID-19 pandemic reveals a high burden of antimicrobial resistant bacteria and extensive hospital transmission: A longitudinal prospective cohort study  
+HA Thorpe, M Pesonen, M Corbella, H Pesonen, S Gaiarsa, C Boinett, G Tonkin-Hill, __T M&auml;klin__, AK P&ouml;ntinen, N MacAlasdair, RA Gladstone, S Arredondo-Alonso, T Kallonen, D Jamrozy, S Lo, C Chaguza, GA Blackwell, A Honkela, AC Sch&uuml;rch, RJL Willems, C Merla, G Petazzoni, EJ Feil, P Cambieri, NR Thomson, SD Bentley, D Sassera, and J Corander  
+*The Lancet Microbe* (2024)
+<br><br>
+
 Peer-reviewed journal articles
 
 : A novel prophage-like insertion element within yabG triggers early entry into sporulation in _Clostridium botulinum_  
