@@ -90,6 +90,12 @@ pipelines. Founded and operated a one-man company.
 ### Publications {#publications}
 &nbsp;
 Preprints
+
+: Seamless, rapid and accurate analyses of outbreak genomic data using Split K-mer Analysis (SKA)  
+R Derelle, J von Wachsmann, __T M&auml;klin__, J Hellewell, T Russell, A Lalvani, L Chindelevitch, NJ Croucher, SR Harris, and JA Lees  
+*preprint* (2024), available at *bioRxiv*: [10.1101/2024.03.25.586631](https://doi.org/10.1101/2024.03.25.586631)  
+software in GitHub: [SKA2](https://github.com/bacpop/ska.rust)
+
 : _Escherichia coli_ colonisation diversity and impact of antibiotic use in Punjab, Pakistan: A cross-sectional genomic cohort study  
 T Khawaja&#176;, __T M&auml;klin&#176;__, T Kallonen&#176;, RA Gladstone, AK P&ouml;ntine, S Mero, HA Thorpe, &Oslash; Samuelsen, J Parkhill, M Izhar, WM Akhtar, J Corander, and A Kantele  
 &#176; joint first authors  
@@ -116,7 +122,8 @@ FP Douillard, I Martins Portinha, Y Derman, C Woudstra, __T M&auml;klin__, MB Do
 : Themisto: a scalable colored _k_-mer index for sensitive pseudoalignment against
 hundreds of thousands of bacterial genomes  
 JN Alanko, J Vuohtoniemi, __T M&auml;klin__, Simon J Puglisi  
-*Bioinformatics* (2023), doi: [10.1093/bioinformatics/btad233](https://doi.org/10.1093/bioinformatics/btad233)
+*Bioinformatics* (2023), doi: [10.1093/bioinformatics/btad233](https://doi.org/10.1093/bioinformatics/btad233)  
+software in GitHub: [Themisto](https://github.com/algbio/themisto)
 
 : Strong pathogen competition in neonatal gut colonisation  
 __T M&auml;klin__, HA Thorpe, AK P&ouml;ntinen, RA Gladstone, Y Shao, M Pesonen, A McNally, PJ Johnsen, &Oslash; Samuelsen, TD Lawley, A Honkela, and J Corander  
@@ -128,11 +135,13 @@ FP Douillard, Y Derman, C Woudstra, K Selby, __T M&auml;klin__, MB Dorner, H Sax
 
 : Bacterial genomic epidemiology with mixed samples  
 __T M&auml;klin__, T Kallonen, JN Alanko, &Oslash; Samuelsen, K Hegstad, V M&auml;kinen, J Corander, E Heinz, A Honkela  
-*Microbial genomics* (2021), doi: [10.1099/mgen.0.000691](https://doi.org/10.1099/mgen.0.000691.)
+*Microbial genomics* (2021), doi: [10.1099/mgen.0.000691](https://doi.org/10.1099/mgen.0.000691.)  
+software in GitHub: [mGEMS](https://github.com/probic/mgems)
 
 : High-resolution sweep metagenomics using ultrafast read mapping and inference  
 __T M&auml;klin__, T Kallonen, S David, CJ Boinett, B Pascoe, G M&eacute;ric, DM Aanensen, EJ Feil, S Baker, J Parkhill, SK Sheppard, J Corander, A Honkela  
-*Wellcome open research* (2021), doi: [10.12688/wellcomeopenres.15639.2](https://doi.org/10.12688/wellcomeopenres.15639.2)
+*Wellcome open research* (2021), doi: [10.12688/wellcomeopenres.15639.2](https://doi.org/10.12688/wellcomeopenres.15639.2)  
+software in GitHub: [mSWEEP](https://github.com/probic/msweep)
 
 : Closing _Clostridium botulinum_ Group III genomes using long-read sequencing  
 C Woudstra, __T M&auml;klin__, Y Derman, L Bano, H Skarin, C Mazuet, A Honkela, M Lindstr&ouml;m  
@@ -207,6 +216,10 @@ Taxonomic profiler with lineage-level resolution, [PROBIC/mSWEEP](https://github
 : __Themisto__  
 *With Jarno N Alanko & others*  
 Pseudoaligner and _k_-mer index for short-read sequencing data, [algbio/Themisto](https://github.com/algbio/Themisto)
+
+: __SKA2__  
+*With John A Lees & others*  
+Split _k_-mer analysis of closely related genomic sequences, [bacpop/ska.rust](https://github.com/bacpop/ska.rust)
 
 : __cpprate__  
 *Main contributor*  
