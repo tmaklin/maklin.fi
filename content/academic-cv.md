@@ -190,6 +190,9 @@ Board member, 2020--2021
 
 ### Research visits {#researchvisits}
 &nbsp;
+: __University of Oslo, Oslo, Norway__  
+Visitor, May 2024
+
 : __European Bioinformatics Institute, Hinxton, Cambridge, UK__  
 Visiting postdoctoral fellow, Jan 2023--July 2023
 
