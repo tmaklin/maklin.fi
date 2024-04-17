@@ -10,6 +10,8 @@ set -euxo pipefail
 
 sitename="maklin.fi"
 
+mkdir -p static/documents
+
 ## Convert the resume markdown page to a pdf
 md_in=tmp-in.md
 echo "# Tommi M&auml;klin" > $md_in
