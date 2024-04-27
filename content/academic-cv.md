@@ -190,7 +190,7 @@ Board member, 2020--2021
 
 ### Research visits {#researchvisits}
 &nbsp;
-: __University of Oslo, Oslo, Norway__  
+: __Institute of Basic Medical Sciences, University of Oslo, Oslo, Norway__  
 Visitor, May 2024
 
 : __European Bioinformatics Institute, Hinxton, Cambridge, UK__  
