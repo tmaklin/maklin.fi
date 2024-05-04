@@ -166,29 +166,6 @@ Covered six months salary, 2021
 
 -----
 
-<!-- ### Teaching experience {#teaching} -->
-
-### Service {#service}
-Peer review
-
-: 2024 *ECML PKDD, Journal of Open Source Software*  
-2023 *Genome biology, Nature communications, Microbiome, Scientific reports*  
-2022 *BMC microbiology*  
-2021 *International conference on machine learning (ICML)*  
-2019 *International conference on machine learning (ICML)*
-<br><br>
-
-
-Boards and committees
-
-: Doctoral school in natural sciences, University of Helsinki  
-Board member, 2020--2021
-
-: Doctoral programme in Computer Science, University of Helsinki  
-Board member, 2020--2021
-
------
-
 ### Research visits {#researchvisits}
 &nbsp;
 : __Institute of Basic Medical Sciences, University of Oslo, Oslo, Norway__  
@@ -203,6 +180,52 @@ Visiting postdoctoral fellow, Jan 2023--July 2023
 &nbsp;
 : __Wellcome Sanger Institute, Hinxton, Cambridge, UK__  
 External postdoctoral fellow (contingent worker), Pathogens and microbes programme, 2022-2024
+
+-----
+
+<!-- ### Teaching experience {#teaching} -->
+
+
+### Positions of trust {#positionsoftrust}
+&nbsp;
+: __University of Helsinki, Helsinki, Finland__  
+Shop steward, 2023--2024
+
+-----
+
+### Volunteer experience {#volunteering}
+&nbsp;
+: __Finnish union of university researchers and teachers__  
+Board member, 2024 &SmallCircle; Deputy board member, 2023
+
+: __Helsinki university researchers and teachers association__  
+Vice chair, 2023 &SmallCircle; Board member, 2022--2025 &SmallCircle; Deputy board member 2020--2021
+
+: __University of Helsinki PhD students association__  
+Chair, 2020--2021 &SmallCircle; Secretary 2022
+
+: __Finnish statistical society__  
+Secretary, 2017--2022 &SmallCircle; Deputy board member 2022--2023
+
+-----
+
+### Service {#service}
+Boards and committees
+
+: Doctoral school in natural sciences, University of Helsinki  
+Board member, 2020--2021
+
+: Doctoral programme in Computer Science, University of Helsinki  
+Board member, 2020--2021
+<br><br>
+
+Peer review
+
+: 2024 *ECML PKDD, Journal of Open Source Software*  
+2023 *Genome biology, Nature communications, Microbiome, Scientific reports*  
+2022 *BMC microbiology*  
+2021 *International conference on machine learning (ICML)*  
+2019 *International conference on machine learning (ICML)*
 
 -----
 
@@ -236,29 +259,6 @@ Newspapers with national reach
 
 : Sairaalabakteeri ei tartu terveisiin vastasyntyneisiin, kertoo tutkimus  
 *Helsingin Sanomat*, Helsinki, Finland, 8 February 2023
-
------
-
-### Positions of trust {#positionsoftrust}
-&nbsp;
-: __University of Helsinki, Helsinki, Finland__  
-Shop steward, 2023--2024
-
------
-
-### Volunteer experience {#volunteering}
-&nbsp;
-: __Finnish union of university researchers and teachers__  
-Board member, 2024 &SmallCircle; Deputy board member, 2023
-
-: __Helsinki university researchers and teachers association__  
-Vice chair, 2023 &SmallCircle; Board member, 2022--2025 &SmallCircle; Deputy board member 2020--2021
-
-: __University of Helsinki PhD students association__  
-Chair, 2020--2021 &SmallCircle; Secretary 2022
-
-: __Finnish statistical society__  
-Secretary, 2017--2022 &SmallCircle; Deputy board member 2022--2023
 
 -----
 
