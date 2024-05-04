@@ -171,7 +171,8 @@ Covered six months salary, 2021
 ### Service {#service}
 Peer review
 
-: 2023 *Genome biology, Nature communications, Microbiome, Scientific reports*  
+: 2024 *ECML PKDD, Journal of Open Source Software*  
+2023 *Genome biology, Nature communications, Microbiome, Scientific reports*  
 2022 *BMC microbiology*  
 2021 *International conference on machine learning (ICML)*  
 2019 *International conference on machine learning (ICML)*
