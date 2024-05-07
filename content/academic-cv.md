@@ -96,13 +96,13 @@ R Derelle, J von Wachsmann, __T M&auml;klin__, J Hellewell, T Russell, A Lalvani
 *preprint* (2024), available at *bioRxiv*: [10.1101/2024.03.25.586631](https://doi.org/10.1101/2024.03.25.586631)  
 software in GitHub: [SKA2](https://github.com/bacpop/ska.rust)
 
-: _Escherichia coli_ colonisation diversity and impact of antibiotic use in Punjab, Pakistan: A cross-sectional genomic cohort study  
+Manuscripts in press
+
+: Deep sequencing of _Escherichia coli_ displays marked colonisation diversity and impact of antibiotic use in Punjab, Pakistan  
 T Khawaja&#176;, __T M&auml;klin&#176;__, T Kallonen&#176;, RA Gladstone, AK P&ouml;ntine, S Mero, HA Thorpe, &Oslash; Samuelsen, J Parkhill, M Izhar, WM Akhtar, J Corander, and A Kantele  
 &#176; joint first authors  
-*preprint* (2024), available at SSRN: [10.2139/ssrn.4683844](https://dx.doi.org/10.2139/ssrn.4683844)
+*Nature Communications* (2024), pre-print available at SSRN: [10.2139/ssrn.4683844](https://dx.doi.org/10.2139/ssrn.4683844)
 <br><br>
-
-Manuscripts in press
 
 : Pan-pathogen deep sequencing of nosocomial bacterial pathogens during the early COVID-19 pandemic reveals a high burden of antimicrobial resistant bacteria and extensive hospital transmission: A longitudinal prospective cohort study  
 HA Thorpe, M Pesonen, M Corbella, H Pesonen, S Gaiarsa, C Boinett, G Tonkin-Hill, __T M&auml;klin__, AK P&ouml;ntinen, N MacAlasdair, RA Gladstone, S Arredondo-Alonso, T Kallonen, D Jamrozy, S Lo, C Chaguza, GA Blackwell, A Honkela, AC Sch&uuml;rch, RJL Willems, C Merla, G Petazzoni, EJ Feil, P Cambieri, NR Thomson, SD Bentley, D Sassera, and J Corander  
