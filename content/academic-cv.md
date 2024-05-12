@@ -91,6 +91,10 @@ pipelines. Founded and operated a one-man company.
 &nbsp;
 Preprints
 
+: Basic reproduction number for pandemic _Escherichia coli_ clones is comparable to typical pandemic viruses  
+FA Ojala, H Pesonen, RA Gladstone, __T M&auml;klin__, G Tonkin-Hill, P Marttinen, and J Corander  
+*preprint* (2024), available at *bioRxiv*: [10.1101/2024.05.08.593267](https://doi.org/10.1101/2024.05.08.593267)  
+
 : Seamless, rapid and accurate analyses of outbreak genomic data using Split K-mer Analysis (SKA)  
 R Derelle, J von Wachsmann, __T M&auml;klin__, J Hellewell, T Russell, A Lalvani, L Chindelevitch, NJ Croucher, SR Harris, and JA Lees  
 *preprint* (2024), available at *bioRxiv*: [10.1101/2024.03.25.586631](https://doi.org/10.1101/2024.03.25.586631)  
