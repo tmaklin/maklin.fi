@@ -10,7 +10,7 @@ View all of my publications on [Google Scholar](https://scholar.google.com/citat
 ### 2024
 **_Escherichia coli_ colonisation diversity and impact of antibiotic use in Punjab, Pakistan: A cross-sectional genomic cohort study**
 
-Tamim Khawaja&#176;, __Tommi M&auml;klin&#176;__, Teemu Kallonen&#176;, Rebecca A Gladstone, Anna K P&ouml;ntine, Sointu Mero, Harry A Thorpe, &Oslash;rjan Samuelsen, Julian Parkhill, Mateen Izhar, Waheed M Akhtar, Jukka Corander, and Anu Kantele
+Tamim Khawaja&#176;, __Tommi M&auml;klin&#176;__, Teemu Kallonen&#176;, Rebecca A Gladstone, Anna K P&ouml;ntinen, Sointu Mero, Harry A Thorpe, &Oslash;rjan Samuelsen, Julian Parkhill, Mateen Izhar, Waheed M Akhtar, Jukka Corander, and Anu Kantele
 
 &#176; joint first authors  
 preprint, available from [ssrn](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4683844).
