@@ -103,18 +103,17 @@ software in GitHub: [SKA2](https://github.com/bacpop/ska.rust)
 
 Manuscripts in press
 
-: Deep sequencing of _Escherichia coli_ displays marked colonisation diversity and impact of antibiotic use in Punjab, Pakistan  
-T Khawaja&#176;, __T M&auml;klin&#176;__, T Kallonen&#176;, RA Gladstone, AK P&ouml;ntinen, S Mero, HA Thorpe, &Oslash; Samuelsen, J Parkhill, M Izhar, WM Akhtar, J Corander, and A Kantele  
-&#176; joint first authors  
-*Nature Communications* (2024)  
-pre-print available at SSRN: [10.2139/ssrn.4683844](https://dx.doi.org/10.2139/ssrn.4683844)
-
 : Pan-pathogen deep sequencing of nosocomial bacterial pathogens during the early COVID-19 pandemic reveals a high burden of antimicrobial resistant bacteria and extensive hospital transmission: A longitudinal prospective cohort study  
 HA Thorpe, M Pesonen, M Corbella, H Pesonen, S Gaiarsa, C Boinett, G Tonkin-Hill, __T M&auml;klin__, AK P&ouml;ntinen, N MacAlasdair, RA Gladstone, S Arredondo-Alonso, T Kallonen, D Jamrozy, S Lo, C Chaguza, GA Blackwell, A Honkela, AC Sch&uuml;rch, RJL Willems, C Merla, G Petazzoni, EJ Feil, P Cambieri, NR Thomson, SD Bentley, D Sassera, and J Corander  
 *The Lancet Microbe* (2024)
 <br><br>
 
 Peer-reviewed journal articles
+
+: Deep sequencing of _Escherichia coli_ exposes colonisation diversity and impact of antibiotics in Punjab, Pakistan  
+T Khawaja&#176;, __T M&auml;klin&#176;__, T Kallonen&#176;, RA Gladstone, AK P&ouml;ntinen, S Mero, HA Thorpe, &Oslash; Samuelsen, J Parkhill, M Izhar, WM Akhtar, J Corander, and A Kantele  
+&#176; joint first authors  
+*Nature Communications* (2024), doi: [10.1038/s41467-024-49591-5](https://dx.doi.org/10.1038/s41467-024-49591-5)
 
 : Exploring the paediatric nasopharyngeal bacterial microbiota with culture-based MALDI-TOF mass spectrometry and targeted metagenomic sequencing  
 P Sreymom, T Kallonen, __T M&auml;klin__, P Sar, J Hopkins, S Soeng, T Miliya, CL Ling, SD Bentley, J Corander, and P Turner  
