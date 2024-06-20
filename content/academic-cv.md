@@ -101,6 +101,14 @@ R Derelle, J von Wachsmann, __T M&auml;klin__, J Hellewell, T Russell, A Lalvani
 software in GitHub: [SKA2](https://github.com/bacpop/ska.rust)
 <br><br>
 
+Submitted
+
+: Geographical variation in colorectal and urinary tract linked cancer incidence is associated with population exposure to colibactin-producing _Escherichia coli_  
+__T M&auml;klin__, A Taira, S Arredondo-Alonso, Y Shao, MR Stratton, TD Lawley, LA Aaltonen, and J Corander  
+*submitted* (2024), available upon request.  
+Main findings in Zenodo: [10.5281/zenodo.11275910](https://zenodo.org/records/11275910).
+<br><br>
+
 Manuscripts in press
 
 : Pan-pathogen deep sequencing of nosocomial bacterial pathogens during the early COVID-19 pandemic reveals a high burden of antimicrobial resistant bacteria and extensive hospital transmission: A longitudinal prospective cohort study  
