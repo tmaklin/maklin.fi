@@ -109,14 +109,11 @@ __T M&auml;klin__, A Taira, S Arredondo-Alonso, Y Shao, MR Stratton, TD Lawley, 
 Main findings in Zenodo: [10.5281/zenodo.11275910](https://zenodo.org/records/11275910).
 <br><br>
 
-Manuscripts in press
-
-: Pan-pathogen deep sequencing of nosocomial bacterial pathogens during the early COVID-19 pandemic reveals a high burden of antimicrobial resistant bacteria and extensive hospital transmission: A longitudinal prospective cohort study  
-HA Thorpe, M Pesonen, M Corbella, H Pesonen, S Gaiarsa, C Boinett, G Tonkin-Hill, __T M&auml;klin__, AK P&ouml;ntinen, N MacAlasdair, RA Gladstone, S Arredondo-Alonso, T Kallonen, D Jamrozy, S Lo, C Chaguza, GA Blackwell, A Honkela, AC Sch&uuml;rch, RJL Willems, C Merla, G Petazzoni, EJ Feil, P Cambieri, NR Thomson, SD Bentley, D Sassera, and J Corander  
-*The Lancet Microbe* (2024)
-<br><br>
-
 Peer-reviewed journal articles
+
+: Pan-pathogen deep sequencing of nosocomial bacterial pathogens in Italy in spring 2020: a prospective cohort study  
+HA Thorpe, M Pesonen, M Corbella, H Pesonen, S Gaiarsa, CJ Boinett, G Tonkin-Hill , __T M&auml;klin;__, AK P&ouml;ntinen, N MacAlasdair, RA Gladstone, S Arredondo-Alonso, T Kallonen, D Jamrozy, SW Lo, C Chaguza, GA Blackwell, A Honkela, AC Sch&uuml;rch, RJL Willems, C Merla, G Petazzoni, EJ Feil, P Cambieri, NR Thomson, SD Bentley, D Sassera, and J Corander  
+*The Lancet Microbe* (2024), doi: [10.1016/S2666-5247(24)00113-7](https://doi.org/10.1016/S2666-5247(24)00113-7)
 
 : Deep sequencing of _Escherichia coli_ exposes colonisation diversity and impact of antibiotics in Punjab, Pakistan  
 T Khawaja&#176;, __T M&auml;klin&#176;__, T Kallonen&#176;, RA Gladstone, AK P&ouml;ntinen, S Mero, HA Thorpe, &Oslash; Samuelsen, J Parkhill, M Izhar, WM Akhtar, J Corander, and A Kantele  
