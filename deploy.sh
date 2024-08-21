@@ -24,11 +24,11 @@ sed -i "s/<script src=\"\/js\/call_me.js\"><\/script><noscript>[[]Turn on JavaSc
 sed -i "s/$2.*$/$2/g" $md_in
 sed -i "s/Heldata/<br>Heldata/g" $md_in
 
-resume_filename=resume_tommi_maklin_$(date +%Y_%m_%d)
+resume_filename=resume_tommi_maklin
 
 docker run --user $(id -u $(whoami)):$(id -g $(whoami)) \
        -it -v $(pwd):/resume there4/markdown-resume \
-       md2resume pdf --template readable -o resume_tommi_maklin_$(date +%Y_%m_%d) $md_in static/documents/ > /dev/null
+       md2resume pdf --template readable -o $resume_filename $md_in static/documents/ > /dev/null
 
 exiftool -Title="Tommi Maklin - CV" static/documents/$resume_filename".pdf"
 exiftool -Creator="Tommi Maklin (tommi@maklin.fi)" static/documents/$resume_filename".pdf"
@@ -47,6 +47,7 @@ sed -i "s/<script src=\"\/js\/call_me.js\"><\/script><noscript>[[]Turn on JavaSc
 sed -i "s/<br><br>//g" $md_in
 sed -i "s/$2.*$/$2/g" $md_in
 sed -i 's/^Preprints/#### Preprints/g' $md_in
+sed -i 's/^Submitted/#### Submitted/g' $md_in
 sed -i 's/^Manuscripts in press/#### Manuscripts in press/g' $md_in
 sed -i 's/^Manuscripts under/#### Manuscripts under/g' $md_in
 sed -i 's/^Peer/#### Peer/g' $md_in
@@ -62,11 +63,12 @@ sed -i 's/^Contributed/#### Contributed/g' $md_in
 sed -i 's/^### Contact {#footer}$//g' $md_in
 sed -i "s/^\(Tommi.*$2\)$/<p style=\"text-align: center;\">\1<\/p>/g" $md_in
 
+cv_filename=academic_cv_tommi_maklin
+
 docker run --user $(id -u $(whoami)):$(id -g $(whoami)) \
        -it -v $(pwd):/resume there4/markdown-resume \
-       md2resume pdf --template unstyled -o academic_cv_tommi_maklin_$(date +%Y_%m_%d) $md_in static/documents/ > /dev/null
+       md2resume pdf --template unstyled -o $cv_filename $md_in static/documents/ > /dev/null
 
-cv_filename=academic_cv_tommi_maklin_$(date +%Y_%m_%d)
 
 exiftool -Title="Tommi Maklin - CV" static/documents/$cv_filename".pdf"
 exiftool -Creator="Tommi Maklin (tommi@maklin.fi)" static/documents/$cv_filename".pdf"

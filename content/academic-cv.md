@@ -5,7 +5,7 @@ draft: false
 ---
 > <button type="button" name="resume-switcher" onclick="location.href='/resume'">Switch to Resume</button>
 > &ZeroWidthSpace;  
-> &ZeroWidthSpace;[Download PDF](/documents/academic_cv_tommi_maklin_2023_12_15.pdf)  
+> &ZeroWidthSpace;[Download PDF](/documents/academic_cv_tommi_maklin.pdf)  
 > &ZeroWidthSpace;<script src="/js/contact_me.js"></script><noscript>[Turn on JavaScript to see my email address.]</noscript>  
 > &ZeroWidthSpace;<script src="/js/call_me.js"></script><noscript>[Turn on JavaScript to see my phone number.]</noscript>  
 
@@ -112,7 +112,7 @@ Main findings in Zenodo: [10.5281/zenodo.11275910](https://zenodo.org/records/11
 Peer-reviewed journal articles
 
 : Pan-pathogen deep sequencing of nosocomial bacterial pathogens in Italy in spring 2020: a prospective cohort study  
-HA Thorpe, M Pesonen, M Corbella, H Pesonen, S Gaiarsa, CJ Boinett, G Tonkin-Hill , __T M&auml;klin;__, AK P&ouml;ntinen, N MacAlasdair, RA Gladstone, S Arredondo-Alonso, T Kallonen, D Jamrozy, SW Lo, C Chaguza, GA Blackwell, A Honkela, AC Sch&uuml;rch, RJL Willems, C Merla, G Petazzoni, EJ Feil, P Cambieri, NR Thomson, SD Bentley, D Sassera, and J Corander  
+HA Thorpe, M Pesonen, M Corbella, H Pesonen, S Gaiarsa, CJ Boinett, G Tonkin-Hill , __T M&auml;klin__, AK P&ouml;ntinen, N MacAlasdair, RA Gladstone, S Arredondo-Alonso, T Kallonen, D Jamrozy, SW Lo, C Chaguza, GA Blackwell, A Honkela, AC Sch&uuml;rch, RJL Willems, C Merla, G Petazzoni, EJ Feil, P Cambieri, NR Thomson, SD Bentley, D Sassera, and J Corander  
 *The Lancet Microbe* (2024), doi: [10.1016/S2666-5247(24)00113-7](https://doi.org/10.1016/S2666-5247(24)00113-7)
 
 : Deep sequencing of _Escherichia coli_ exposes colonisation diversity and impact of antibiotics in Punjab, Pakistan  
