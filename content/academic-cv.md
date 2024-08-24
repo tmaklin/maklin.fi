@@ -91,6 +91,11 @@ pipelines. Founded and operated a one-man company.
 &nbsp;
 Preprints
 
+: Enhanced metagenomics-enabled transmission inference with TRACS  
+G Tonkin-Hill, Y Shao, AE Zarebski, S Mallawaarachchi, Ouli Xie, __T M&auml;klin__, HA Thorpe, MR Davies, SD Bentley, TD Lawley, and J Corander  
+*preprint* (2024), available at *bioRxiv*: [10.1101/2024.08.19.608527](https://doi.org/10.1101/2024.08.19.608527)  
+software in GitHub: [TRACS](https://github.com/gtonkinhill/tracs)
+
 : Basic reproduction number for pandemic _Escherichia coli_ clones is comparable to typical pandemic viruses  
 FA Ojala, H Pesonen, RA Gladstone, __T M&auml;klin__, G Tonkin-Hill, P Marttinen, and J Corander  
 *preprint* (2024), available at *bioRxiv*: [10.1101/2024.05.08.593267](https://doi.org/10.1101/2024.05.08.593267)  
