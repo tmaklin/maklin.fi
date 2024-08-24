@@ -110,7 +110,7 @@ Submitted
 
 : Geographical variation in colorectal and urinary tract linked cancer incidence is associated with population exposure to colibactin-producing _Escherichia coli_  
 __T M&auml;klin__, A Taira, S Arredondo-Alonso, Y Shao, MR Stratton, TD Lawley, LA Aaltonen, and J Corander  
-*submitted* (2024), available upon request.  
+Accepted subject to revision, *The Lancet Microbe* (2024).  
 Main findings in Zenodo: [10.5281/zenodo.11275910](https://zenodo.org/records/11275910).
 <br><br>
 
