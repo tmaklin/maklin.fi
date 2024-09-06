@@ -37,7 +37,7 @@ copyright = "&copy; Copyright 2023, Tommi M&auml;klin"
     identifier = "resume"
     name = "Resume"
     title = "Resume"
-    url = "/resume"
+    url = "/academic-cv"
     weight = -90
 
 # Configuration Features
