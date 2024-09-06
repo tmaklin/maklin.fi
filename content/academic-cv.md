@@ -92,16 +92,16 @@ pipelines. Founded and operated a one-man company.
 Preprints
 
 : Enhanced metagenomics-enabled transmission inference with TRACS  
-G Tonkin-Hill, Y Shao, AE Zarebski, S Mallawaarachchi, Ouli Xie, __T M&auml;klin__, HA Thorpe, MR Davies, SD Bentley, TD Lawley, and J Corander  
+G&nbsp;Tonkin-Hill, Y&nbsp;Shao, AE&nbsp;Zarebski, S&nbsp;Mallawaarachchi, Ouli&nbsp;Xie, __T&nbsp;M&auml;klin__, HA&nbsp;Thorpe, MR&nbsp;Davies, SD&nbsp;Bentley, TD&nbsp;Lawley, and&nbsp;J&nbsp;Corander  
 *preprint* (2024), available at *bioRxiv*: [10.1101/2024.08.19.608527](https://doi.org/10.1101/2024.08.19.608527)  
 software in GitHub: [TRACS](https://github.com/gtonkinhill/tracs)
 
 : Basic reproduction number for pandemic _Escherichia coli_ clones is comparable to typical pandemic viruses  
-FA Ojala, H Pesonen, RA Gladstone, __T M&auml;klin__, G Tonkin-Hill, P Marttinen, and J Corander  
+FA&nbsp;Ojala, H&nbsp;Pesonen, RA&nbsp;Gladstone, __T&nbsp;M&auml;klin__, G&nbsp;Tonkin-Hill, P&nbsp;Marttinen, and&nbsp;J&nbsp;Corander  
 *preprint* (2024), available at *bioRxiv*: [10.1101/2024.05.08.593267](https://doi.org/10.1101/2024.05.08.593267)  
 
 : Seamless, rapid and accurate analyses of outbreak genomic data using Split K-mer Analysis (SKA)  
-R Derelle, J von Wachsmann, __T M&auml;klin__, J Hellewell, T Russell, A Lalvani, L Chindelevitch, NJ Croucher, SR Harris, and JA Lees  
+R&nbsp;Derelle, J&nbsp;von&nbsp;Wachsmann, __T&nbsp;M&auml;klin__, J&nbsp;Hellewell, T&nbsp;Russell, A&nbsp;Lalvani, L&nbsp;Chindelevitch, NJ&nbsp;Croucher, SR&nbsp;Harris, and&nbsp;JA&nbsp;Lees  
 *preprint* (2024), available at *bioRxiv*: [10.1101/2024.03.25.586631](https://doi.org/10.1101/2024.03.25.586631)  
 software in GitHub: [SKA2](https://github.com/bacpop/ska.rust)
 <br><br>
@@ -109,63 +109,63 @@ software in GitHub: [SKA2](https://github.com/bacpop/ska.rust)
 Submitted
 
 : Geographical variation in colorectal and urinary tract linked cancer incidence is associated with population exposure to colibactin-producing _Escherichia coli_  
-__T M&auml;klin__, A Taira, S Arredondo-Alonso, Y Shao, MR Stratton, TD Lawley, LA Aaltonen, and J Corander  
+__T&nbsp;M&auml;klin__, A&nbsp;Taira, S&nbsp;Arredondo-Alonso, Y&nbsp;Shao, MR&nbsp;Stratton, TD&nbsp;Lawley, LA&nbsp;Aaltonen, and&nbsp;J&nbsp;Corander  
 Accepted subject to revision, *The Lancet Microbe* (2024).  
 Main findings in Zenodo: [10.5281/zenodo.11275910](https://zenodo.org/records/11275910).
 <br><br>
 
 Peer-reviewed journal articles
 
-: Pan-pathogen deep sequencing of nosocomial bacterial pathogens in Italy in spring 2020: a prospective cohort study  
-HA Thorpe, M Pesonen, M Corbella, H Pesonen, S Gaiarsa, CJ Boinett, G Tonkin-Hill , __T M&auml;klin__, AK P&ouml;ntinen, N MacAlasdair, RA Gladstone, S Arredondo-Alonso, T Kallonen, D Jamrozy, SW Lo, C Chaguza, GA Blackwell, A Honkela, AC Sch&uuml;rch, RJL Willems, C Merla, G Petazzoni, EJ Feil, P Cambieri, NR Thomson, SD Bentley, D Sassera, and J Corander  
+: Pan-pathogen deep sequencing of nosocomial bacterial pathogens in Italy in Spring 2020: a prospective cohort study  
+HA&nbsp;Thorpe, M&nbsp;Pesonen, M&nbsp;Corbella, H&nbsp;Pesonen, S&nbsp;Gaiarsa, CJ&nbsp;Boinett, G&nbsp;Tonkin-Hill, __T&nbsp;M&auml;klin__, AK&nbsp;P&ouml;ntinen, N&nbsp;MacAlasdair, RA&nbsp;Gladstone, S&nbsp;Arredondo-Alonso, T&nbsp;Kallonen, D&nbsp;Jamrozy, SW&nbsp;Lo, C&nbsp;Chaguza, GA&nbsp;Blackwell, A&nbsp;Honkela, AC&nbsp;Sch&uuml;rch, RJL&nbsp;Willems, C&nbsp;Merla, G&nbsp;Petazzoni, EJ&nbsp;Feil, P&nbsp;Cambieri, NR&nbsp;Thomson, SD&nbsp;Bentley, D&nbsp;Sassera, and&nbsp;J&nbsp;Corander  
 *The Lancet Microbe* (2024), doi: [10.1016/S2666-5247(24)00113-7](https://doi.org/10.1016/S2666-5247(24)00113-7)
 
 : Deep sequencing of _Escherichia coli_ exposes colonisation diversity and impact of antibiotics in Punjab, Pakistan  
-T Khawaja&#176;, __T M&auml;klin&#176;__, T Kallonen&#176;, RA Gladstone, AK P&ouml;ntinen, S Mero, HA Thorpe, &Oslash; Samuelsen, J Parkhill, M Izhar, WM Akhtar, J Corander, and A Kantele  
+T&nbsp;Khawaja&#176;, __T&nbsp;M&auml;klin&#176;__, T&nbsp;Kallonen&#176;, RA&nbsp;Gladstone, AK&nbsp;P&ouml;ntinen, S&nbsp;Mero, HA&nbsp;Thorpe, &Oslash;&nbsp;Samuelsen, J&nbsp;Parkhill, M&nbsp;Izhar, WM&nbsp;Akhtar, J&nbsp;Corander, and&nbsp;A&nbsp;Kantele  
 &#176; joint first authors  
 *Nature Communications* (2024), doi: [10.1038/s41467-024-49591-5](https://dx.doi.org/10.1038/s41467-024-49591-5)
 
 : Exploring the paediatric nasopharyngeal bacterial microbiota with culture-based MALDI-TOF mass spectrometry and targeted metagenomic sequencing  
-P Sreymom, T Kallonen, __T M&auml;klin__, P Sar, J Hopkins, S Soeng, T Miliya, CL Ling, SD Bentley, J Corander, and P Turner  
+P&nbsp;Sreymom, T&nbsp;Kallonen, __T&nbsp;M&auml;klin__, P&nbsp;Sar, J&nbsp;Hopkins, S&nbsp;Soeng, T&nbsp;Miliya, CL&nbsp;Ling, SD&nbsp;Bentley, J&nbsp;Corander, and&nbsp;P&nbsp;Turner  
 *mBio* (2024), doi: [10.1128/mbio.00784-24](https://doi.org/10.1128/mbio.00784-24)
 
 : A novel prophage-like insertion element within yabG triggers early entry into sporulation in _Clostridium botulinum_  
-FP Douillard, I Martins Portinha, Y Derman, C Woudstra, __T M&auml;klin__, MB Dorner, H Korkeala, AO Henriques, M Lindstr&ouml;m  
+FP&nbsp;Douillard, I&nbsp;Martins&nbsp;Portinha, Y&nbsp;Derman, C&nbsp;Woudstra, __T&nbsp;M&auml;klin__, MB&nbsp;Dorner, H&nbsp;Korkeala, AO&nbsp;Henriques, and&nbsp;M&nbsp;Lindstr&ouml;m  
 *Viruses* (2023), doi: [10.3390/v15122431](https://doi.org/10.3390/v15122431)
 
 : Themisto: a scalable colored _k_-mer index for sensitive pseudoalignment against
 hundreds of thousands of bacterial genomes  
-JN Alanko, J Vuohtoniemi, __T M&auml;klin__, Simon J Puglisi  
+JN&nbsp;Alanko, J&nbsp;Vuohtoniemi, __T&nbsp;M&auml;klin__, and&nbsp;SJ&nbsp;Puglisi  
 *Bioinformatics* (2023), doi: [10.1093/bioinformatics/btad233](https://doi.org/10.1093/bioinformatics/btad233)  
 software in GitHub: [Themisto](https://github.com/algbio/themisto)
 
 : Strong pathogen competition in neonatal gut colonisation  
-__T M&auml;klin__, HA Thorpe, AK P&ouml;ntinen, RA Gladstone, Y Shao, M Pesonen, A McNally, PJ Johnsen, &Oslash; Samuelsen, TD Lawley, A Honkela, and J Corander  
+__T&nbsp;M&auml;klin__, HA&nbsp;Thorpe, AK&nbsp;P&ouml;ntinen, RA&nbsp;Gladstone, Y&nbsp;Shao, M&nbsp;Pesonen, A&nbsp;McNally, PJ&nbsp;Johnsen, &Oslash;&nbsp;Samuelsen, TD&nbsp;Lawley, A&nbsp;Honkela, and&nbsp;J&nbsp;Corander  
 *Nature communications* (2022), doi: [10.1038/s41467-022-35178-5](https://doi.org/10.1038/s41467-022-35178-5)
 
 : Genomic and phenotypic characterization of Clostridium botulinum isolates from an infant botulism case suggests adaptation signatures to the gut  
-FP Douillard, Y Derman, C Woudstra, K Selby, __T M&auml;klin__, MB Dorner, H Sax&eacute;n, BG Dorner, H Korkeala, M Lindstr&ouml;m  
+FP&nbsp;Douillard, Y&nbsp;Derman, C&nbsp;Woudstra, K&nbsp;Selby, __T&nbsp;M&auml;klin__, MB&nbsp;Dorner, H&nbsp;Sax&eacute;n, BG&nbsp;Dorner, H&nbsp;Korkeala, and&nbsp;M&nbsp;Lindstr&ouml;m  
 *mBio* (2022), doi: [10.1128/mbio.02384-21](https://doi.org/10.1128/mbio.02384-21)
 
 : Bacterial genomic epidemiology with mixed samples  
-__T M&auml;klin__, T Kallonen, JN Alanko, &Oslash; Samuelsen, K Hegstad, V M&auml;kinen, J Corander, E Heinz, A Honkela  
+__T&nbsp;M&auml;klin__, T&nbsp;Kallonen, JN&nbsp;Alanko, &Oslash;&nbsp;Samuelsen, K&nbsp;Hegstad, V&nbsp;M&auml;kinen, J&nbsp;Corander, E&nbsp;Heinz, and&nbsp;A&nbsp;Honkela  
 *Microbial genomics* (2021), doi: [10.1099/mgen.0.000691](https://doi.org/10.1099/mgen.0.000691.)  
 software in GitHub: [mGEMS](https://github.com/probic/mgems)
 
 : High-resolution sweep metagenomics using ultrafast read mapping and inference  
-__T M&auml;klin__, T Kallonen, S David, CJ Boinett, B Pascoe, G M&eacute;ric, DM Aanensen, EJ Feil, S Baker, J Parkhill, SK Sheppard, J Corander, A Honkela  
+__T&nbsp;M&auml;klin__, T&nbsp;Kallonen, S&nbsp;David, CJ&nbsp;Boinett, B&nbsp;Pascoe, G&nbsp;M&eacute;ric, DM&nbsp;Aanensen, EJ&nbsp;Feil, S&nbsp;Baker, J&nbsp;Parkhill, SK&nbsp;Sheppard, J&nbsp;Corander, and&nbsp;A&nbsp;Honkela  
 *Wellcome open research* (2021), doi: [10.12688/wellcomeopenres.15639.2](https://doi.org/10.12688/wellcomeopenres.15639.2)  
 software in GitHub: [mSWEEP](https://github.com/probic/msweep)
 
 : Closing _Clostridium botulinum_ Group III genomes using long-read sequencing  
-C Woudstra, __T M&auml;klin__, Y Derman, L Bano, H Skarin, C Mazuet, A Honkela, M Lindstr&ouml;m  
+C&nbsp;Woudstra, __T&nbsp;M&auml;klin__, Y&nbsp;Derman, L&nbsp;Bano, H&nbsp;Skarin, C&nbsp;Mazuet, A&nbsp;Honkela, and&nbsp;M&nbsp;Lindstr&ouml;m  
 *Microbiology resource announcements* (2021), doi: [10.1128/MRA.01364-20](https://doi.org/10.1128/MRA.01364-20)
 <br><br>
 
 Book chapters
 
 : Identifying bacterial strains from sequencing data  
-__T M&auml;klin__, J Corander, A Honkela  
+__T&nbsp;M&auml;klin__, J&nbsp;Corander, and&nbsp;A&nbsp;Honkela  
 *Data mining for systems biology* (2018), doi: [10.1007/978-1-4939-8561-6_1](https://doi.org/10.1007/978-1-4939-8561-6_1)
 
 -----
@@ -173,10 +173,10 @@ __T M&auml;klin__, J Corander, A Honkela
 ### Grants {#grants}
 &nbsp;
 : __Theory@EMBL visitor fellowship__  
-For visit costs, approx. &pound;5000, 2023
+For visit costs, approx. &pound;5&nbsp;000, 2023
 
 : __DONASCI thesis finalization grant__  
-Covered six months salary, 2021
+Covered six months salary, approx. &euro;20&nbsp;000, 2021
 
 -----
 
@@ -193,7 +193,7 @@ Visiting postdoctoral fellow, Jan 2023--July 2023
 ### External affiliations {#affiliations}
 &nbsp;
 : __Wellcome Sanger Institute, Hinxton, Cambridge, UK__  
-External postdoctoral fellow (contingent worker), Pathogens and microbes programme, 2022-2024
+Visiting worker, Pathogens and microbes programme, 2022-2024
 
 -----
 
@@ -203,7 +203,7 @@ External postdoctoral fellow (contingent worker), Pathogens and microbes program
 ### Positions of trust {#positionsoftrust}
 &nbsp;
 : __University of Helsinki, Helsinki, Finland__  
-Shop steward, 2023--2024
+Union representative (shop steward), 2023--2024
 
 -----
 
@@ -213,7 +213,7 @@ Shop steward, 2023--2024
 Board member, 2024 &SmallCircle; Deputy board member, 2023
 
 : __Helsinki university researchers and teachers association__  
-Vice chair, 2023 &SmallCircle; Board member, 2022--2025 &SmallCircle; Deputy board member 2020--2021
+Vice chair, 2023--2024 &SmallCircle; Board member, 2022--2025 &SmallCircle; Deputy board member 2020--2021
 
 : __University of Helsinki PhD students association__  
 Chair, 2020--2021 &SmallCircle; Secretary 2022
@@ -235,11 +235,11 @@ Board member, 2020--2021
 
 Peer review
 
-: 2024 *ECML PKDD, Journal of Open Source Software, Microbiome*  
+: 2024 ECML PKDD, *Journal of Open Source Software, Microbiome*  
 2023 *Genome biology, Nature communications, Microbiome, Scientific reports*  
 2022 *BMC microbiology*  
-2021 *International conference on machine learning (ICML)*  
-2019 *International conference on machine learning (ICML)*
+2021 International conference on machine learning (ICML)  
+2019 International conference on machine learning (ICML)
 
 -----
 
@@ -271,7 +271,8 @@ Variable selection in Bayesian regression models with relative centrality, [tmak
 Newspapers with national reach
 
 : Sairaalabakteeri ei tartu terveisiin vastasyntyneisiin, kertoo tutkimus  
-*Helsingin Sanomat*, Helsinki, Finland, 8 February 2023
+*Helsingin Sanomat*, Helsinki, Finland, 8 February 2023  
+[https://www.hs.fi/helsinki/art-2000009380665.html](https://www.hs.fi/helsinki/art-2000009380665.html)
 
 -----
 
