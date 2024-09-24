@@ -314,6 +314,9 @@ Wellcome Sanger Institute, Hinxton, Cambridge, UK, June 2020
 
 Contributed talks
 
+: SMBE Satellite Workshop on Pathogen Pangenome Evolution Between and Within their Hosts
+Tokyo, Japan, November 2024
+
 : Microbial (gen)omics meeting  
 Wellcome Sanger Institute, Hinxton, Cambridge, UK, July 2023
 
