@@ -100,18 +100,19 @@ software in GitHub: [TRACS](https://github.com/gtonkinhill/tracs)
 FA&nbsp;Ojala, H&nbsp;Pesonen, RA&nbsp;Gladstone, __T&nbsp;M&auml;klin__, G&nbsp;Tonkin-Hill, P&nbsp;Marttinen, and&nbsp;J&nbsp;Corander  
 *preprint* (2024), available at *bioRxiv*: [10.1101/2024.05.08.593267](https://doi.org/10.1101/2024.05.08.593267)  
 
-: Seamless, rapid and accurate analyses of outbreak genomic data using Split K-mer Analysis (SKA)  
-R&nbsp;Derelle, J&nbsp;von&nbsp;Wachsmann, __T&nbsp;M&auml;klin__, J&nbsp;Hellewell, T&nbsp;Russell, A&nbsp;Lalvani, L&nbsp;Chindelevitch, NJ&nbsp;Croucher, SR&nbsp;Harris, and&nbsp;JA&nbsp;Lees  
-*preprint* (2024), available at *bioRxiv*: [10.1101/2024.03.25.586631](https://doi.org/10.1101/2024.03.25.586631)  
-software in GitHub: [SKA2](https://github.com/bacpop/ska.rust)
-<br><br>
-
-Submitted
+In-press
 
 : Geographical variation in colorectal and urinary tract linked cancer incidence is associated with population exposure to colibactin-producing _Escherichia coli_  
 __T&nbsp;M&auml;klin__, A&nbsp;Taira, S&nbsp;Arredondo-Alonso, Y&nbsp;Shao, MR&nbsp;Stratton, TD&nbsp;Lawley, LA&nbsp;Aaltonen, and&nbsp;J&nbsp;Corander  
-Accepted subject to revision, *The Lancet Microbe* (2024).  
+*The Lancet Microbe* (2024).  
 Main findings in Zenodo: [10.5281/zenodo.11275910](https://zenodo.org/records/11275910).
+<br><br>
+
+: Seamless, rapid and accurate analyses of outbreak genomic data using Split K-mer Analysis (SKA)  
+R&nbsp;Derelle, J&nbsp;von&nbsp;Wachsmann, __T&nbsp;M&auml;klin__, J&nbsp;Hellewell, T&nbsp;Russell, A&nbsp;Lalvani, L&nbsp;Chindelevitch, NJ&nbsp;Croucher, SR&nbsp;Harris, and&nbsp;JA&nbsp;Lees  
+*Genome Research* (2024).  
+Pre-print available at *bioRxiv*: [10.1101/2024.03.25.586631](https://doi.org/10.1101/2024.03.25.586631)  
+software in GitHub: [SKA2](https://github.com/bacpop/ska.rust)
 <br><br>
 
 Peer-reviewed journal articles
