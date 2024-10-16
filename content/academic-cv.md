@@ -108,14 +108,12 @@ __T&nbsp;M&auml;klin__, A&nbsp;Taira, S&nbsp;Arredondo-Alonso, Y&nbsp;Shao, MR&n
 Main findings in Zenodo: [10.5281/zenodo.11275910](https://zenodo.org/records/11275910).
 <br><br>
 
-: Seamless, rapid and accurate analyses of outbreak genomic data using Split K-mer Analysis (SKA)  
-R&nbsp;Derelle, J&nbsp;von&nbsp;Wachsmann, __T&nbsp;M&auml;klin__, J&nbsp;Hellewell, T&nbsp;Russell, A&nbsp;Lalvani, L&nbsp;Chindelevitch, NJ&nbsp;Croucher, SR&nbsp;Harris, and&nbsp;JA&nbsp;Lees  
-*Genome Research* (2024).  
-Pre-print available at *bioRxiv*: [10.1101/2024.03.25.586631](https://doi.org/10.1101/2024.03.25.586631)  
-software in GitHub: [SKA2](https://github.com/bacpop/ska.rust)
-<br><br>
-
 Peer-reviewed journal articles
+
+: Seamless, rapid, and accurate analyses of outbreak genomic data using split _k_-mer analysis  
+R&nbsp;Derelle, J&nbsp;von&nbsp;Wachsmann, __T&nbsp;M&auml;klin__, J&nbsp;Hellewell, T&nbsp;Russell, A&nbsp;Lalvani, L&nbsp;Chindelevitch, NJ&nbsp;Croucher, SR&nbsp;Harris, and&nbsp;JA&nbsp;Lees  
+*Genome Research* (2024), doi: [10.1101/gr.279449.124](https://doi.org/10.1101/gr.279449.124)  
+software in GitHub: [SKA2](https://github.com/bacpop/ska.rust)
 
 : Pan-pathogen deep sequencing of nosocomial bacterial pathogens in Italy in Spring 2020: a prospective cohort study  
 HA&nbsp;Thorpe, M&nbsp;Pesonen, M&nbsp;Corbella, H&nbsp;Pesonen, S&nbsp;Gaiarsa, CJ&nbsp;Boinett, G&nbsp;Tonkin-Hill, __T&nbsp;M&auml;klin__, AK&nbsp;P&ouml;ntinen, N&nbsp;MacAlasdair, RA&nbsp;Gladstone, S&nbsp;Arredondo-Alonso, T&nbsp;Kallonen, D&nbsp;Jamrozy, SW&nbsp;Lo, C&nbsp;Chaguza, GA&nbsp;Blackwell, A&nbsp;Honkela, AC&nbsp;Sch&uuml;rch, RJL&nbsp;Willems, C&nbsp;Merla, G&nbsp;Petazzoni, EJ&nbsp;Feil, P&nbsp;Cambieri, NR&nbsp;Thomson, SD&nbsp;Bentley, D&nbsp;Sassera, and&nbsp;J&nbsp;Corander  
