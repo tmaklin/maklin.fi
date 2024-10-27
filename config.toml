@@ -6,7 +6,7 @@ relativeURLs = true
 enableEmoji = true
 googleAnalytics = ""
 enableRobotsTXT = true
-copyright = "&copy; Copyright 2023, Tommi M&auml;klin"
+copyright = "&copy; Copyright 2024, Tommi M&auml;klin"
 
 [markup]
   [markup.goldmark]
@@ -39,6 +39,12 @@ copyright = "&copy; Copyright 2023, Tommi M&auml;klin"
     title = "Resume"
     url = "/academic-cv"
     weight = -90
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    title = "Contact"
+    url = "/contact"
+    weight = -80
 
 # Configuration Features
 [params]
