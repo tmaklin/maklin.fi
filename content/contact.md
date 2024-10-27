@@ -6,6 +6,7 @@ draft: false
 
 Email: <script src="/js/contact_me.js"></script><noscript>[Turn on JavaScript to see my email address.]</noscript>  
 PGP key: <a href="/keys/'Tommi Mäklin tommi@maklin.fi-(0xD5AFAFC58C30A68A)-public.asc'">download</a>  
+PGP key id: `0xD5AFAFC58C30A68A `  
 Fingerprint: `5DBD ECCE F005 930A 9CE1 7524 D5AF AFC5 8C30 A68A`  
 
 
