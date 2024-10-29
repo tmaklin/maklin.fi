@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /documents/
+Disallow: /keys/
+Disallow: /js/
+Disallow: /tags/
