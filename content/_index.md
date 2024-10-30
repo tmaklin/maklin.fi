@@ -14,7 +14,7 @@ deemed high-risk pathogens due to [antimicrobial
 resistance](https://www.who.int/news/item/27-02-2017-who-publishes-list-of-bacteria-for-which-new-antibiotics-are-urgently-needed).
 
 ## Contact
-You can reach me at <script src="js/contact_me.js"></script><noscript>[Turn on JavaScript to see my email address.]</noscript> or via [Matrix](https://matrix.to/#/@temaklin:cafe.maklin.fi).
+You can reach me at <script src="js/contact_me.js"></script><noscript>[Turn on JavaScript to see my email address.]</noscript> or via [Signal](https://signal.me/#eu/px_U2zbZvv3_qHxtL6mINI0vR37_ZI7fa3S13OcLCxquiTeD-M9PCpsP0v_yjcuq).
 
 ## Blog
 Dec 12 2023 &mdash; <a href="/post/software-development/2023-12-12_cross-compiling-c++-binaries-for-macos-x86_64-and-arm64/">Cross-compiling C++ binaries for macOS arm64 and x86_64</a>
