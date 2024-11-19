@@ -50,13 +50,8 @@ This post contains a guide and examples for the two main use cases I have in
 mind for kbo. You can replicate them using the [kbo command-line
 interface](https://github.com/tmaklin/kbo-cli).
 
-I am also developing a browser version at
-[https://github.com/tmaklin/kbo-gui](https://github.com/tmaklin/kbo-gui)
-
 ## Installation
-A command-line interface is provided at
-[https://github.com/tmaklin/kbo-cli](https://github.com/tmaklin/kbo-cli). You
-can install it by running
+Download a precompiled binary from [here](https://github.com/tmaklin/kbo-cli/releases), or install the command-line interface using cargo:
 ```text
 cargo install kbo-cli
 ```
@@ -64,7 +59,7 @@ and then call `kbo` to run the tool.
 
 I am also developing a browser version at
 [https://github.com/tmaklin/kbo-gui](https://github.com/tmaklin/kbo-gui) which
-will hopefully be ready in Winter 2024-2025.
+will hopefully be available soon.
 
 ## Finding genes of interest in a query
 Assume you have sequenced and assembled a bacterial genome and are interested in
