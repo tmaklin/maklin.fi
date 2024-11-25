@@ -6,6 +6,17 @@ draft: false
 
 View the full list of my software projects and contributions on [GitHub](https://github.com/tmaklin).
 
+## kbo
+[kbo](https://docs.rs/kbo) is a local aligner that I am developing. kbo is based
+on converting plain _k_-mer matching results into approximate local alignment
+segments by looking at the longest common prefix length of the match (a
+**k-bo**unded matching statistic).
+
+- Run in browser: [maklin.fi/kbo/](https://maklin.fi/kbo/)
+- Language: Rust
+- License: [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0) and
+  [MIT](https://opensource.org/license/mit/) dual license.
+
 ## bxzstr
 [bxzstr](https://github.com/tmaklin/bxzstr) is a C++ header-only
 library that extends the standard library iostream classes to read
