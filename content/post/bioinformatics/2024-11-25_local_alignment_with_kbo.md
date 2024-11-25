@@ -51,6 +51,16 @@ mind for kbo. You can replicate them using the [kbo command-line
 interface](https://github.com/tmaklin/kbo-cli).
 
 ## Installation
+### Run in browser
+
+An in-browser demo version is available at
+[maklin.fi/kbo](https://maklin.fi/kbo/).
+
+You can find the source code for the
+browser version in a separate [git
+repository](https://github.com/tmaklin/kbo-gui).
+
+### Run locally
 Download a precompiled binary from [here](https://github.com/tmaklin/kbo-cli/releases), or install the command-line interface using cargo:
 ```text
 cargo install kbo-cli
