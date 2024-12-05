@@ -8,6 +8,14 @@ View all of my publications on [Google Scholar](https://scholar.google.com/citat
 
 ## Highlights
 ### 2024
+__Geographical variation in the incidence of colorectal cancer and urinary tract cancer is associated with population exposure to colibactin-producing _Escherichia coli___
+
+__Tommi M&auml;klin__, Aurora Taira, Sergio Arredondo-Alonso, Yan Shao, Michael R Stratton, Trevor D Lawley, Lauri A Aaltonen, and Jukka Corander
+
+[Lancet Microbe](https://www.sciencedirect.com/science/article/pii/S2666524724002830?via%3Dihub), 2024
+
+We show that the geographical variation in population prevalence of colibactin-producing _E. coli_ lineages ST95 and ST73 in healthy carriage largely explains the variation in colorectal cancer incidence globally. Since ST95 and ST73 are are also major causes of UTIs, a similar link might also exist in some urinary tract cancers via exposure to colibactin during infection. Our study provides a potential vaccine target for reducing the burden from colibactin associated cancers by pinpointing the exact _E. coli_ lineages responsible in humans.
+
 __Deep sequencing of _Escherichia coli_ exposes colonisation diversity and impact of antibiotics in Punjab, Pakistan__
 
 Tamim Khawaja&#176;, __Tommi M&auml;klin&#176;__, Teemu Kallonen&#176;, Rebecca A Gladstone, Anna K P&ouml;ntinen, Sointu Mero, Harry A Thorpe, &Oslash;rjan Samuelsen, Julian Parkhill, Mateen Izhar, Waheed M Akhtar, Jukka Corander, and Anu Kantele  
