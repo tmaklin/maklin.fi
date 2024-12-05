@@ -91,6 +91,10 @@ pipelines. Founded and operated a one-man company.
 &nbsp;
 Preprints
 
+: Group 2 and 3 ABC-transporter dependant capsular K-loci contribute significantly to variation in the invasive potential of _Escherichia coli_  
+RA&nbsp;Gladstone, M&nbsp;Pesonen, AK&nbsp;P&ouml;ntinen, __T&nbsp;M&auml;klin__, N&nbsp;MacAlasdair, H&nbsp;Thorpe, Y&nbsp;Shao, S&nbsp;Mallawaarachchi, S&nbsp;Arredondo-Alonso, BJ&nbsp;Parcell, JD&nbsp;Turnbull, G&nbsp;Tonkin-Hill, PJ&nbsp;Johnsen, &Oslash;&nbsp;Samuelsen, NR&nbsp;Thomson, TD&nbsp;Lawley, and&nbsp;J&nbsp;Corander  
+*preprint* (2024), available at *medRxiv*: [10.1101/2024.11.22.24317484](https://doi.org/10.1101/2024.11.22.24317484)
+
 : Enhanced metagenomics-enabled transmission inference with TRACS  
 G&nbsp;Tonkin-Hill, Y&nbsp;Shao, AE&nbsp;Zarebski, S&nbsp;Mallawaarachchi, Ouli&nbsp;Xie, __T&nbsp;M&auml;klin__, HA&nbsp;Thorpe, MR&nbsp;Davies, SD&nbsp;Bentley, TD&nbsp;Lawley, and&nbsp;J&nbsp;Corander  
 *preprint* (2024), available at *bioRxiv*: [10.1101/2024.08.19.608527](https://doi.org/10.1101/2024.08.19.608527)  
@@ -98,17 +102,15 @@ software in GitHub: [TRACS](https://github.com/gtonkinhill/tracs)
 
 : Basic reproduction number for pandemic _Escherichia coli_ clones is comparable to typical pandemic viruses  
 FA&nbsp;Ojala, H&nbsp;Pesonen, RA&nbsp;Gladstone, __T&nbsp;M&auml;klin__, G&nbsp;Tonkin-Hill, P&nbsp;Marttinen, and&nbsp;J&nbsp;Corander  
-*preprint* (2024), available at *bioRxiv*: [10.1101/2024.05.08.593267](https://doi.org/10.1101/2024.05.08.593267)  
+*preprint* (2024), available at *bioRxiv*: [10.1101/2024.05.08.593267](https://doi.org/10.1101/2024.05.08.593267)
 
-In-press
-
-: Geographical variation in colorectal and urinary tract linked cancer incidence is associated with population exposure to colibactin-producing _Escherichia coli_  
-__T&nbsp;M&auml;klin__, A&nbsp;Taira, S&nbsp;Arredondo-Alonso, Y&nbsp;Shao, MR&nbsp;Stratton, TD&nbsp;Lawley, LA&nbsp;Aaltonen, and&nbsp;J&nbsp;Corander  
-*The Lancet Microbe* (2024).  
-Main findings in Zenodo: [10.5281/zenodo.11275910](https://zenodo.org/records/11275910).
-<br><br>
+<br>
 
 Peer-reviewed journal articles
+
+: Geographical variation in the incidence of colorectal cancer and urinary tract cancer is associated with population exposure to colibactin-producing _Escherichia coli_  
+__T&nbsp;M&auml;klin__, A&nbsp;Taira, S&nbsp;Arredondo-Alonso, Y&nbsp;Shao, MR&nbsp;Stratton, TD&nbsp;Lawley, LA&nbsp;Aaltonen, and&nbsp;J&nbsp;Corander  
+*The Lancet Microbe* (2024), doi: [10.1016/j.lanmic.2024.101015](https://doi.org/10.1016/j.lanmic.2024.101015)
 
 : Seamless, rapid, and accurate analyses of outbreak genomic data using split _k_-mer analysis  
 R&nbsp;Derelle, J&nbsp;von&nbsp;Wachsmann, __T&nbsp;M&auml;klin__, J&nbsp;Hellewell, T&nbsp;Russell, A&nbsp;Lalvani, L&nbsp;Chindelevitch, NJ&nbsp;Croucher, SR&nbsp;Harris, and&nbsp;JA&nbsp;Lees  
@@ -234,7 +236,7 @@ Board member, 2020--2021
 
 Peer review
 
-: 2024 ECML PKDD, *Journal of Open Source Software, Microbiome, Microbial Genomics*  
+: 2024 ECML PKDD, *Journal of Open Source Software, Microbiome*  
 2023 *Genome biology, Nature communications, Microbiome, Scientific reports*  
 2022 *BMC microbiology*  
 2021 International conference on machine learning (ICML)  
