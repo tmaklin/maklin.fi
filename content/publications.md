@@ -12,7 +12,7 @@ __Geographical variation in the incidence of colorectal cancer and urinary tract
 
 __Tommi M&auml;klin__, Aurora Taira, Sergio Arredondo-Alonso, Yan Shao, Michael R Stratton, Trevor D Lawley, Lauri A Aaltonen, and Jukka Corander
 
-[Lancet Microbe](https://www.sciencedirect.com/science/article/pii/S2666524724002830?via%3Dihub), 2024
+[Lancet Microbe](https://doi.org/10.1016/j.lanmic.2024.101015), 2024
 
 We show that the geographical variation in population prevalence of colibactin-producing _E. coli_ lineages ST95 and ST73 in healthy carriage largely explains the variation in colorectal cancer incidence globally. Since ST95 and ST73 are are also major causes of UTIs, a similar link might also exist in some urinary tract cancers via exposure to colibactin during infection. Our study provides a potential vaccine target for reducing the burden from colibactin associated cancers by pinpointing the exact _E. coli_ lineages responsible in humans.
 
