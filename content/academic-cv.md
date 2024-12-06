@@ -269,7 +269,11 @@ Variable selection in Bayesian regression models with relative centrality, [tmak
 -----
 
 ### Media coverage {#mediacoverage}
-Newspapers with national reach
+Outlets with national reach
+
+: Jopa puolet suolistosy&ouml;vist&auml; johtuu bakteeritartunnasta – tuore tutkimus antaa toivoa my&ouml;s rokotteesta sy&ouml;p&auml;&auml;n  
+*Yle*, Helsinki, Finland, 5 December 2024  
+[https://yle.fi/a/74-20129530](https://yle.fi/a/74-20129530)
 
 : Sairaalabakteeri ei tartu terveisiin vastasyntyneisiin, kertoo tutkimus  
 *Helsingin Sanomat*, Helsinki, Finland, 8 February 2023  
