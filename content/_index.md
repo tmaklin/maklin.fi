@@ -5,13 +5,12 @@ draft: false
 ---
 
 ## About me
-I'm a postdoctoral researcher at the [University of
-Helsinki](https://www.helsinki.fi/en/about-us/people/people-finder/tommi-maklin-9362251)
+I'm a researcher at the [University of
+Oslo](https://www.med.uio.no/imb/english/?vrtx=person-view&uid=tommiem)
 working in the intersection of bacterial (meta)genomics, probabilistic
-modelling, and bioinformatics software development. My research
-focuses on the genomics and ecology of bacterial species that are
-deemed high-risk pathogens due to [antimicrobial
-resistance](https://www.who.int/news/item/27-02-2017-who-publishes-list-of-bacteria-for-which-new-antibiotics-are-urgently-needed).
+modelling, and bioinformatics software development. My research currently
+focuses on the ecology, evolution, and epidemiology of bacterial species that are
+implicated in development of [colorectal and urinary tract cancers](https://www.thelancet.com/journals/lanmic/article/PIIS2666-5247(24)00283-0/fulltext).
 
 ## Contact
 You can reach me at <script src="js/contact_me.js"></script><noscript>[Turn on JavaScript to see my email address.]</noscript> or via [Signal](https://signal.me/#eu/px_U2zbZvv3_qHxtL6mINI0vR37_ZI7fa3S13OcLCxquiTeD-M9PCpsP0v_yjcuq).

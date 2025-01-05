@@ -34,8 +34,15 @@ Minor studies in Mathematics and Computer Science
 
 ### Research experience {#employment}
 &nbsp;
+__University of Oslo, Oslo, Norway__
+: Researcher, 2025--ongoing  
+
+: I study the ecology, evolution, and epidemiology of cancer-associated bacteria
+by developing and applying methods for analysing longitudinal metagenomics data.
+<br><br>
+
 __University of Helsinki, Helsinki, Finland__
-: Postdoctoral researcher, 2023--ongoing  
+: Postdoctoral researcher, 2023--2024  
 
 : I work on developing and applying statistical methods for studying the
 link between ecology and epidemiology of opportunistic pathogens that

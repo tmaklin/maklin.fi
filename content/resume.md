@@ -57,9 +57,17 @@ PhD in computer science with research experience in computational and theoretica
 ------
 
 ### Experience {#experience}
+
+University of Oslo
+: *Researcher*  
+  __2025--ongoing__  
+: I study the ecology, evolution, and epidemiology of cancer-associated bacteria
+by developing and applying methods for analysing longitudinal metagenomics data.
+<br><br>
+
 University of Helsinki
 : *Postdoctoral researcher*  
-  __2023--ongoing__  
+  __2023--2024__  
 I work on developing and applying statistical methods for studying the
 link between ecology and epidemiology of opportunistic pathogens that
 are also a part of the healthy human gut microbiome.

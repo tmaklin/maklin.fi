@@ -50,7 +50,7 @@ copyright = "&copy; Copyright 2024, Tommi M&auml;klin"
 [params]
   description = "Tommi Mäklin's personal website"      # Your meta description of the site
   header_title = "Tommi Mäklin"                 # Your header title
-  header_subtitle = "Postdoctoral researcher | University of Helsinki" # Your header subtitle
+  header_subtitle = "Researcher | University of Oslo" # Your header subtitle
   home_image = "/img/headshot_2023.jpg"          # Path to header image starting from the static directory
   recent_posts = 5                           # Max amount of recent posts to show
   mainSections = ["posts", "post", "blog"]   # Main sections to include in recent posts
