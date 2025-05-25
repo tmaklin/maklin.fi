@@ -117,7 +117,7 @@ Peer-reviewed journal articles
 
 : Geographical variation in the incidence of colorectal cancer and urinary tract cancer is associated with population exposure to colibactin-producing _Escherichia coli_  
 __T&nbsp;M&auml;klin__, A&nbsp;Taira, S&nbsp;Arredondo-Alonso, Y&nbsp;Shao, MR&nbsp;Stratton, TD&nbsp;Lawley, LA&nbsp;Aaltonen, and&nbsp;J&nbsp;Corander  
-*The Lancet Microbe* (2024), doi: [10.1016/j.lanmic.2024.101015](https://doi.org/10.1016/j.lanmic.2024.101015)
+*The Lancet Microbe* (2025), doi: [10.1016/j.lanmic.2024.101015](https://doi.org/10.1016/j.lanmic.2024.101015)
 
 : Seamless, rapid, and accurate analyses of outbreak genomic data using split _k_-mer analysis  
 R&nbsp;Derelle, J&nbsp;von&nbsp;Wachsmann, __T&nbsp;M&auml;klin__, J&nbsp;Hellewell, T&nbsp;Russell, A&nbsp;Lalvani, L&nbsp;Chindelevitch, NJ&nbsp;Croucher, SR&nbsp;Harris, and&nbsp;JA&nbsp;Lees  
