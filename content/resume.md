@@ -33,7 +33,7 @@ PhD in computer science with research experience in computational and theoretica
 <table class="tg">
 <tbody>
   <tr>
-    <td class="tg-0lax">C++</td>
+    <td class="tg-0lax">Rust</td>
     <td class="tg-0lax">git</td>
     <td class="tg-0lax">Bioinformatics</td>
   </tr>
@@ -47,7 +47,7 @@ PhD in computer science with research experience in computational and theoretica
 </tbody>
 <tbody>
   <tr>
-    <td class="tg-0lax">Stan&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0lax">C++</td>
     <td class="tg-0lax">Shell scripting&nbsp;&nbsp;&nbsp;&nbsp;</td>
     <td class="tg-0lax">High-performance computing</td>
   </tr>
