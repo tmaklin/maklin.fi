@@ -7,6 +7,15 @@ draft: false
 View all of my publications on [Google Scholar](https://scholar.google.com/citations?user=snMrAPkAAAAJ&hl=en&oi=ao).
 
 ## Highlights
+### 2025
+__Sequence alignment with _k_-bounded matching statistics__
+
+__Tommi M&auml;klin__, Jarno N Alanko, Elena Biagi, and Simon J Puglisi
+
+[pre-print available at bioRxiv](https://doi.org/10.1101/2025.05.19.654936), 2025
+
+We introduce the [kbo](https://github.com/tmaklin/kbo) method for performing assembly-to-assembly variant calling, reference-based mapping, and gene finding. Kbo scales easily to tens-hundreds of thousands of query sequences by leveraging the [spectral Burrows-Wheeler transform](https://epubs.siam.org/doi/abs/10.1137/1.9781611977714.20) data structure to efficiently perform _k_-mer matching and compute the longest common suffix lengths of each match. This information is then transformed into an alignment using statistical denoising and a translation algorithm introduced in kbo.
+
 ### 2024
 __Geographical variation in the incidence of colorectal cancer and urinary tract cancer is associated with population exposure to colibactin-producing _Escherichia coli___
 
