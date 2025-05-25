@@ -98,6 +98,11 @@ pipelines. Founded and operated a one-man company.
 &nbsp;
 Preprints
 
+: Sequence alignment with _k_-bounded matching statistics  
+__Tommi&nbsp;M&auml;klin__, Jarno&nbsp;N&nbsp;Alanko, Elena&nbsp;Biagi, and&nbsp;Simon&nbsp;J&nbsp;Puglisi  
+*preprint* (2025), available at *bioRxiv*: [10.1101/2025.05.19.654936](https://doi.org/10.1101/2025.05.19.654936)  
+software in GitHub: [kbo](https://github.com/tmaklin/kbo)
+
 : Group 2 and 3 ABC-transporter dependant capsular K-loci contribute significantly to variation in the invasive potential of _Escherichia coli_  
 RA&nbsp;Gladstone, M&nbsp;Pesonen, AK&nbsp;P&ouml;ntinen, __T&nbsp;M&auml;klin__, N&nbsp;MacAlasdair, H&nbsp;Thorpe, Y&nbsp;Shao, S&nbsp;Mallawaarachchi, S&nbsp;Arredondo-Alonso, BJ&nbsp;Parcell, JD&nbsp;Turnbull, G&nbsp;Tonkin-Hill, PJ&nbsp;Johnsen, &Oslash;&nbsp;Samuelsen, NR&nbsp;Thomson, TD&nbsp;Lawley, and&nbsp;J&nbsp;Corander  
 *preprint* (2024), available at *medRxiv*: [10.1101/2024.11.22.24317484](https://doi.org/10.1101/2024.11.22.24317484)
