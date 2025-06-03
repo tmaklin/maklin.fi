@@ -259,6 +259,10 @@ Peer review
 
 ### Research software
 &nbsp;
+: __kbo__  
+*With Jarno N Alanko & others*  
+Sequence-to-sequence aligner and variant caller, [tmaklin/kbo](https://github.com/tmaklin/kbo)
+
 : __mGEMS__  
 *Main contributor*  
 Taxonomic binner with lineage-level resolution, [PROBIC/mGEMS](https://github.com/PROBIC/mGEMS)
