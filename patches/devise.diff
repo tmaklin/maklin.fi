@@ -1,0 +1,13 @@
+diff --git a/assets/sass/override.scss b/assets/sass/override.scss
+index ce2515c..e3de997 100644
+--- a/assets/sass/override.scss
++++ b/assets/sass/override.scss
+@@ -18,7 +18,7 @@ $fa-font-path: "../webfonts";
+ // === Custom Styles ===
+ #content {
+   width: 100%;
+-  max-width: 650px;
++  max-width: 850px;
+   min-height: calc(100vh - 105px);
+ }
+ 
