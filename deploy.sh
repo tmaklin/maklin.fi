@@ -18,14 +18,15 @@ patch themes/devise/assets/sass/override.scss < patches/devise.diff
 ## Convert the resume markdown page to a pdf
 md_in=tmp-in.md
 echo "# Tommi M&auml;klin" > $md_in
-echo "## Postdoctoral researcher" >> $md_in
+echo "## Researcher" >> $md_in
 echo -e "\n------\n" >> $md_in
-sed '1,9d' content/resume.md | sed 's/[&]ZeroWidthSpace[;]//g' >> $md_in
+sed '1,8d' content/resume.md | sed 's/[&]ZeroWidthSpace[;]//g' >> $md_in
 sed -i "s/<script src=\"\/js\/contact_me.js\"><\/script><noscript>[[]Turn on JavaScript to see my email address.[]]<\/noscript>/$1/g" $md_in
 sed -i "s/<script src=\"\/js\/call_me.js\"><\/script><noscript>[[]Turn on JavaScript to see my phone number.[]]<\/noscript>/$2/g" $md_in
 ##sed -i "s/<br><br>//g" $md_in
 sed -i "s/$2.*$/$2/g" $md_in
 sed -i "s/Heldata/<br>Heldata/g" $md_in
+sed -i "s/^### Experience/<br><br><br><br>\n### Experience/g" $md_in
 
 resume_filename=resume_tommi_maklin
 
