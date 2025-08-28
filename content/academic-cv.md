@@ -3,7 +3,7 @@ title: "Academic CV"
 date: 2023-10-17T13:27:01Z
 draft: false
 ---
-> <button type="button" name="resume-switcher" onclick="location.href='/resume'">Switch to Resume</button>
+> <button type="button" name="resume-switcher" onclick="location.href='/resume'">Switch to Short Form</button>
 > &ZeroWidthSpace;  
 > &ZeroWidthSpace;[Download PDF](/documents/academic_cv_tommi_maklin.pdf)  
 > &ZeroWidthSpace;<script src="/js/contact_me.js"></script><noscript>[Turn on JavaScript to see my email address.]</noscript>  
