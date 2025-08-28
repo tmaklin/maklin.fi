@@ -28,10 +28,10 @@ copyright = "&copy; Copyright 2025, Tommi M&auml;klin"
     url = "/software"
     weight = -110
   [[menu.main]]
-    identifier = "publications"
-    name = "Publications"
-    title = "Publications"
-    url = "/publications"
+    identifier = "research"
+    name = "Research"
+    title = "Research"
+    url = "/research"
     weight = -100
   [[menu.main]]
     identifier = "resume"
