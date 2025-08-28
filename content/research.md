@@ -4,9 +4,21 @@ date: 2023-02-28T15:32:43Z
 draft: false
 ---
 
-View all of my publications on [Google Scholar](https://scholar.google.com/citations?user=snMrAPkAAAAJ&hl=en&oi=ao).
+My research interests encompass bioinformatics software development,
+genomic epidemiology of Enterobacteriaceae, strain-level metagenomics, and
+statistical modelling related to these.
 
-## Highlights
+I am currently working on the following projects:
+- Ecology and evolution of colibactin production in _E. coli_.
+- Carriage and global diversity of _E. coli_ in gut microbiome data.
+- Algorithms based on _k_-bounded matching statistics: [alignment](https://doi.org/10.1101/2025.05.19.654936) and [compression](https://github.com/tmaklin/ntcomp).
+- Scaling up pseudoalignment and sweep metagenomics with [better formats](https://github.com/tmaklin/ahda).
+- Long-read metagenomics at the strain-level (mSWEEP-2).
+
+I also like fixing small bugs in other people's research software that I use.
+
+## Publication highlights
+View the full list in my [resume](/academic-cv/#publications).
 ### 2025
 __Sequence alignment with _k_-bounded matching statistics__
 
