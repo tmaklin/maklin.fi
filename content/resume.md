@@ -124,7 +124,7 @@ Helsinki Institute for Information Technology
 : My PhD focused on statistical modelling of microbiome data from pathogenic
 bacteria. I produced software tools for accurately identifying the bacteria in a
 sample and pioneered more efficient genomic epidemiological analyses from
-metagenomics data, which have since been widely adopted by others in the field.
+metagenomics data, which have since been widely adopted by others in the field. <br><br>
 
 Heldata oy
 : *Part-time entrepreneur*  
