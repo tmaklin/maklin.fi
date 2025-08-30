@@ -107,7 +107,8 @@ University of Oslo
 bacterial species that are associated with the development of several cancer
 types. My work is based on analyzing microbiome data to understand how these
 bacteria contribute to cancer development and how significant their impact is
-for the individual. <br><br>
+for the individual.
+<br>
 
 University of Helsinki
 : *Postdoctoral researcher*  
@@ -116,7 +117,8 @@ University of Helsinki
 comparative studies of gut microbiome diversity between high and low-to-middle
 income countries. Our results culminated in a research paper linking diversity
 in the gut microbiome to differences in population-level incidence of colorectal
-cancer. <br><br>
+cancer.
+<br>
 
 Helsinki Institute for Information Technology
 : *Doctoral researcher*  
@@ -124,7 +126,8 @@ Helsinki Institute for Information Technology
 : My PhD focused on statistical modelling of microbiome data from pathogenic
 bacteria. I produced software tools for accurately identifying the bacteria in a
 sample and pioneered more efficient genomic epidemiological analyses from
-metagenomics data, which have since been widely adopted by others in the field. <br><br>
+metagenomics data, which have since been widely adopted by others in the field.
+<br>
 
 Heldata oy
 : *Part-time entrepreneur*  
@@ -133,7 +136,8 @@ Heldata oy
 Helsinki. My responsibilities were day-to-day operation of the company, event
 planning and management, and aiding sales & marketing. With around 500
 participants in 2019, Data Science Day was the largest data
-science recruiting event in Finland. <br><br>
+science recruiting event in Finland.
+<br>
 
 Stokastiko oy
 : *Independent consultant*  
@@ -150,7 +154,8 @@ Vice chair
 recruitment, and on increasing our influence to a level more proportional to our
 size. I also took extra responsibility in management of the union, and wrote several
 statements, opinion pieces, and strategy documents that influenced its
-direction. <br> <br>
+direction.
+<br>
 
 Board member
 : *Finnish Union of University Researchers and Teachers*  

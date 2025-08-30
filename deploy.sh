@@ -25,8 +25,8 @@ sed -i "s/<script src=\"\/js\/contact_me.js\"><\/script><noscript>[[]Turn on Jav
 sed -i "s/<script src=\"\/js\/call_me.js\"><\/script><noscript>[[]Turn on JavaScript to see my phone number.[]]<\/noscript>/$2/g" $md_in
 ##sed -i "s/<br><br>//g" $md_in
 sed -i "s/$2.*$/$2/g" $md_in
-sed -i "s/Heldata/<br>Heldata/g" $md_in
 sed -i "s/^### Experience/<br><br><br><br>\n### Experience/g" $md_in
+sed -i 's/^<br>$/<br><br>/g' $md_in
 
 resume_filename=resume_tommi_maklin
 
