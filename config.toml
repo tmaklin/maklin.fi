@@ -37,7 +37,7 @@ copyright = "&copy; Copyright 2025, Tommi M&auml;klin"
     identifier = "resume"
     name = "Resume"
     title = "Resume"
-    url = "/academic-cv"
+    url = "/resume"
     weight = -90
   [[menu.main]]
     identifier = "contact"
