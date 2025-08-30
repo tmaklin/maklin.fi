@@ -43,12 +43,14 @@ sed -i "s/resume_placeholder.pdf/$resume_filename.pdf/g" content/resume.md
 ## Convert the academic CV to a pdf
 md_in=tmp-in.md
 echo "# Tommi M&auml;klin" > $md_in
-sed '1,9d' content/academic-cv.md | sed 's/^>[[:space:]]*[&]ZeroWidthSpace[;][[:space:]]*$//g' >> $md_in
+sed '1,8d' content/academic-cv.md | sed 's/^>[[:space:]]*[&]ZeroWidthSpace[;][[:space:]]*$//g' >> $md_in
 sed -i 's/^<button.*$//g' $md_in
 sed -i 's/^[>]//g' $md_in
 sed -i "s/<script src=\"\/js\/contact_me.js\"><\/script><noscript>[[]Turn on JavaScript to see my email address.[]]<\/noscript>/$1/g" $md_in
 sed -i "s/<script src=\"\/js\/call_me.js\"><\/script><noscript>[[]Turn on JavaScript to see my phone number.[]]<\/noscript>/$2/g" $md_in
-sed -i "s/<br><br>//g" $md_in
+sed -i "s/^<br>$/<br><br>/g" $md_in
+sed -i "s/^<br>Peer-reviewed/Peer-reviewed/g" $md_in
+sed -i "s/^<br>Book chapters$/Book chapters/g" $md_in
 sed -i "s/$2.*$/$2/g" $md_in
 sed -i 's/^Preprints/#### Preprints/g' $md_in
 sed -i 's/^Submitted/#### Submitted/g' $md_in
@@ -56,7 +58,8 @@ sed -i 's/^Manuscripts in press/#### Manuscripts in press/g' $md_in
 sed -i 's/^Manuscripts under/#### Manuscripts under/g' $md_in
 sed -i 's/^Peer/#### Peer/g' $md_in
 sed -i 's/^Book/#### Book/g' $md_in
-sed -i 's/^Boards/<br>\n#### Boards/g' $md_in
+sed -i 's/^Boards/#### Boards/g' $md_in
+sed -i 's/^Outlets/#### Outlets/g' $md_in
 sed -i 's/^[&]nbsp[;]$//g' $md_in
 sed -i 's/^[*]Main[[:space:]]contributor[*]/Main contributor/g' $md_in
 sed -i 's/^[*]With[[:space:]]\(.*[&]\) others[*]/With \1 others/g' $md_in

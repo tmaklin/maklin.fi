@@ -13,69 +13,66 @@ draft: false
 
 ### Education {#education}
 &nbsp;
-__University of Helsinki, Helsinki, Finland__  
-: PhD, Computer science, 2022   
+: __University of Helsinki, Helsinki, Finland__  
+PhD, Computer science, 2022  
 Thesis: [Probabilistic methods for high-resolution metagenomics](http://urn.fi/URN:ISBN:978-951-51-8695-9)
 <br>
 
-__University of Helsinki, Helsinki, Finland__  
-: MSc, Statistical machine learning, 2017  
+: __University of Helsinki, Helsinki, Finland__  
+MSc, Statistical machine learning, 2017  
 Major studies in statistics
 <br>
 
-__University of Helsinki, Helsinki, Finland__  
-: BSc, Statistics, 2016  
+: __University of Helsinki, Helsinki, Finland__  
+BSc, Statistics, 2016  
 Minor studies in mathematics and computer science
 
 ------
 
 ### Research experience {#employment}
 &nbsp;
-__University of Oslo, Oslo, Norway__
-: Researcher, 2025--ongoing
-: I study the ecology, evolution, and epidemiology of cancer-associated bacteria
+: __University of Oslo, Oslo, Norway__  
+Researcher, 2025--ongoing  
+I study the ecology, evolution, and epidemiology of cancer-associated bacteria
 by developing and applying methods for longitudinal metagenomics data.
 <br>
 
-__University of Helsinki, Helsinki, Finland__
-: Postdoctoral researcher, 2023--2024
-: I worked on developing and applying statistical methods for studying the
+: __University of Helsinki, Helsinki, Finland__  
+Postdoctoral researcher, 2023--2024  
+I worked on developing and applying statistical methods for studying the
 ecology and epidemiology of _E. coli_ in the human gut microbiome.
 <br>
 
-__EMBL-EBI, Hinxton, Cambridgeshire, UK__
-: Visiting postdoctoral fellow, Feb 2023--July 2023
-: I visited the Pathogen Informatics and Modelling group led by
-Dr John Lees through on a Theory@EMBL grant.
+: __EMBL-EBI, Hinxton, Cambridgeshire, UK__  
+Visiting postdoctoral fellow, Feb 2023--July 2023  
+I visited the Pathogen Informatics and Modelling group led by
+Dr John Lees on a Theory@EMBL grant.
 <br>
 
-__University of Helsinki, Helsinki, Finland__
-: Doctoral researcher, 2018--2022  
-
-: My PhD was about developing statistical models for strain-level metagenomics
-and creating open-source implementations of them.
+: __University of Helsinki, Helsinki, Finland__  
+Doctoral researcher, 2018--2022  
+My PhD developed and implemented statistical models for strain-level metagenomics.
 <br>
 
-__Helsinki Institute for Information Technology, Helsinki, Finland__
-: Research assistant, 2016--2017
-: I designed and implemented a statistical model for identifying bacterial
-  strains from DNA sequencing data.
+: __Helsinki Institute for Information Technology, Helsinki, Finland__  
+Research assistant, 2016--2017  
+I designed and implemented a statistical model for identifying bacterial
+  strains in DNA sequencing data.
 
 -------
 
 ### Other employment {#experience}
 &nbsp;
-__Heldata oy, Helsinki, Finland__
-: Part-time entrepreneur, 2018--2022
-: Planned, organised, and hosted a 250-person data science networking
+: __Heldata oy, Helsinki, Finland__  
+Part-time entrepreneur, 2018--2022  
+Planned, organised, and hosted a 250-person data science networking
 and recruiting event in 2019 and 2021 together with others.
 <br>
 
-__Stokastiko oy, Helsinki, Finland__
-: Independent consultant, 2016--2018
-: I designed and taught a 3-day statistics introductory course for the Finnish
+: __Stokastiko oy, Helsinki, Finland__  
+Independent consultant, 2016--2018  
+I designed and taught a 3-day statistics introductory course for the Finnish
 Tax Administration and consulted small organizations.
-<br>
 
 -------
 
@@ -101,9 +98,7 @@ software in GitHub: [TRACS](https://github.com/gtonkinhill/tracs)
 Ojala, Pesonen, Gladstone, __M&auml;klin__, Tonkin-Hill, Marttinen, and&nbsp;Corander  
 *preprint* (2024), available at *bioRxiv*: [10.1101/2024.05.08.593267](https://doi.org/10.1101/2024.05.08.593267)
 
-<br>
-
-Peer-reviewed journal articles
+<br>Peer-reviewed journal articles
 
 : Geographical variation in the incidence of colorectal cancer and urinary tract cancer is associated with population exposure to colibactin-producing _Escherichia coli_  
 __M&auml;klin__, Taira, Arredondo-Alonso, Shao, Stratton, Lawley, Aaltonen, and&nbsp;Corander  
@@ -112,7 +107,6 @@ __M&auml;klin__, Taira, Arredondo-Alonso, Shao, Stratton, Lawley, Aaltonen, and&
 : Seamless, rapid, and accurate analyses of outbreak genomic data using split _k_-mer analysis  
 Derelle, von&nbsp;Wachsmann, __M&auml;klin__, Hellewell, Russell, Lalvani, Chindelevitch, Croucher, Harris, and&nbsp;Lees  
 *Genome Research* (2024), doi: [10.1101/gr.279449.124](https://doi.org/10.1101/gr.279449.124)  
-software in GitHub: [SKA2](https://github.com/bacpop/ska.rust)
 
 : Pan-pathogen deep sequencing of nosocomial bacterial pathogens in Italy in Spring 2020: a prospective cohort study  
 Thorpe, Pesonen, Corbella, Pesonen, Gaiarsa, Boinett, Tonkin-Hill, __M&auml;klin__, P&ouml;ntinen, MacAlasdair, Gladstone, Arredondo-Alonso, Kallonen, Jamrozy, Lo, Chaguza, Blackwell, Honkela, Sch&uuml;rch, Willems, Merla, Petazzoni, Feil, Cambieri, Thomson, Bentley, Sassera, and&nbsp;Corander  
@@ -148,7 +142,6 @@ Douillard, Derman, Woudstra, Selby, __M&auml;klin__, Dorner, Sax&eacute;n, Dorne
 : Bacterial genomic epidemiology with mixed samples  
 __M&auml;klin__, Kallonen, Alanko, Samuelsen, Hegstad, M&auml;kinen, Corander, Heinz, and&nbsp;Honkela  
 *Microbial genomics* (2021), doi: [10.1099/mgen.0.000691](https://doi.org/10.1099/mgen.0.000691.)  
-software in GitHub: [mGEMS](https://github.com/probic/mgems)
 
 : High-resolution sweep metagenomics using ultrafast read mapping and inference  
 __M&auml;klin__, Kallonen, David, Boinett, Pascoe, M&eacute;ric, Aanensen, Feil, Baker, Parkhill, Sheppard, Corander, and&nbsp;Honkela  
@@ -158,13 +151,12 @@ software in GitHub: [mSWEEP](https://github.com/probic/msweep)
 : Closing _Clostridium botulinum_ Group III genomes using long-read sequencing  
 Woudstra, __M&auml;klin__, Derman, Bano, Skarin, Mazuet, Honkela, and&nbsp;Lindstr&ouml;m  
 *Microbiology resource announcements* (2021), doi: [10.1128/MRA.01364-20](https://doi.org/10.1128/MRA.01364-20)
-<br><br>
 
-Book chapters
+<!-- <br>Book chapters -->
 
-: Identifying bacterial strains from sequencing data  
-__M&auml;klin__, Corander, and&nbsp;Honkela  
-*Data mining for systems biology* (2018), doi: [10.1007/978-1-4939-8561-6_1](https://doi.org/10.1007/978-1-4939-8561-6_1)
+<!-- : Identifying bacterial strains from sequencing data   -->
+<!-- __M&auml;klin__, Corander, and&nbsp;Honkela   -->
+<!-- *Data mining for systems biology* (2018), doi: [10.1007/978-1-4939-8561-6_1](https://doi.org/10.1007/978-1-4939-8561-6_1) -->
 
 -----
 
@@ -219,6 +211,7 @@ Secretary, 2017--2022 &SmallCircle; Deputy board member 2022--2023
 -----
 
 ### Service {#service}
+&nbsp;
 Boards and committees
 
 : Doctoral school in natural sciences, University of Helsinki  
@@ -268,8 +261,8 @@ Variable selection in Bayesian regression models with relative centrality, [tmak
 -----
 
 ### Media coverage {#mediacoverage}
+&nbsp;
 Outlets with national reach
-
 
 : Jopa puolet suolistosy&ouml;vist&auml; johtuu bakteeritartunnasta – tuore tutkimus antaa toivoa my&ouml;s rokotteesta sy&ouml;p&auml;&auml;n  
 *Yle*, Finland, 5 December 2024  
@@ -322,7 +315,7 @@ Wellcome Sanger Institute, Hinxton, Cambridge, UK, June 2020
 
 Contributed talks
 
-: SMBE Satellite Workshop on Pathogen Pangenome Evolution Between and Within their Hosts
+: SMBE Satellite workshop on pathogen pangenome evolution between and within their hosts  
 Tokyo, Japan, November 2024
 
 : Microbial (gen)omics meeting  
