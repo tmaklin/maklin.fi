@@ -5,7 +5,7 @@ draft: false
 ---
 
 Email: <script src="/js/contact_me.js"></script><noscript>[Turn on JavaScript to see my email address.]</noscript>  
-Matrix: [@temaklin:cafe.maklin.fi](https://matrix.to/#/@temaklin:cafe.maklin.fi)  
+Matrix: [@maklin:maklin.fi](https://matrix.to/#/@maklin:maklin.fi)  
 Signal: [temaklin.418](https://signal.me/#eu/px_U2zbZvv3_qHxtL6mINI0vR37_ZI7fa3S13OcLCxquiTeD-M9PCpsP0v_yjcuq)
 
 Visiting address: [Domus Medica, Sognsvannsveien 9, Oslo](https://www.med.uio.no/imb/english/about/contact/)
