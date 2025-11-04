@@ -94,11 +94,11 @@ Tonkin-Hill, Shao, Zarebski, Mallawaarachchi, Xie, __M&auml;klin__, Thorpe, Davi
 *preprint* (2024), available at *bioRxiv*: [10.1101/2024.08.19.608527](https://doi.org/10.1101/2024.08.19.608527)  
 software in GitHub: [TRACS](https://github.com/gtonkinhill/tracs)
 
-: Basic reproduction number for pandemic _Escherichia coli_ clones is comparable to typical pandemic viruses  
-Ojala, Pesonen, Gladstone, __M&auml;klin__, Tonkin-Hill, Marttinen, and&nbsp;Corander  
-*preprint* (2024), available at *bioRxiv*: [10.1101/2024.05.08.593267](https://doi.org/10.1101/2024.05.08.593267)
-
 <br>Peer-reviewed journal articles
+
+: Basic reproduction number varies markedly between closely related pandemic _Escherichia coli_ clones  
+Ojala, Pesonen, Gladstone, __M&auml;klin__, Tonkin-Hill, Marttinen, and&nbsp;Corander  
+*Nature Communications* (2025), doi: [10.1038/s41467-025-65301-1](https://doi.org/10.1038/s41467-025-65301-1)
 
 : Geographical variation in the incidence of colorectal cancer and urinary tract cancer is associated with population exposure to colibactin-producing _Escherichia coli_  
 __M&auml;klin__, Taira, Arredondo-Alonso, Shao, Stratton, Lawley, Aaltonen, and&nbsp;Corander  
