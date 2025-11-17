@@ -19,7 +19,7 @@ copyright = "&copy; Copyright 2025, Tommi M&auml;klin"
     identifier = "blog"
     name = "Blog"
     title = "blog"
-    url = "/post"
+    url = "/blog"
     weight = -120
   [[menu.main]]
     identifier = "software"
