@@ -227,9 +227,9 @@ Board member, 2020--2021
 
 Peer review
 
-: 2025 *Microbial genomics*, *Scientific reports*  
-2024 ECML PKDD, *Journal of open source software, Microbiome*  
-2023 *Genome biology, Nature communications, Microbiome, Scientific reports*  
+: 2025 *Microbial genomics*  
+2024 *Journal of open source software, Microbiome*, ECML PKDD  
+2023 *Genome biology, Nature communications, Microbiome*  
 2022 *BMC microbiology*  
 2021 International conference on machine learning (ICML)  
 2019 International conference on machine learning (ICML)
