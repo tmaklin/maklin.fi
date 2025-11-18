@@ -10,6 +10,6 @@ Signal: [temaklin.418](https://signal.me/#eu/px_U2zbZvv3_qHxtL6mINI0vR37_ZI7fa3S
 
 Visiting address: [Domus Medica, Sognsvannsveien 9, Oslo](https://www.med.uio.no/imb/english/about/contact/)
 
-PGP key: <a href="/keys/Tommi Mäklin tommi@maklin.fi-(0xD5AFAFC58C30A68A)-public.asc">download</a>  
-PGP key id: `0xD5AFAFC58C30A68A `  
-Fingerprint: `5DBD ECCE F005 930A 9CE1 7524 D5AF AFC5 8C30 A68A`  
+PGP key: <a href="/keys/tommi@maklin.fi-0x5EB7BC3E25646104-pub.asc">download</a>  
+PGP key id: `0x5EB7BC3E25646104`  
+Fingerprint: `22A9 C8CD D291 834E F2E2 F8A9 5EB7 BC3E 2564 6104`  
