@@ -20,6 +20,11 @@ I also like fixing small bugs in other people's research software that I use.
 ## Publication highlights
 View the full list in my [resume](/academic-cv/#publications).
 ### 2025
+__Co-evolution between colibactin production and resistance is linked to clonal expansions in _Escherichia coli___  
+[pre-print available at bioRxiv](https://doi.org/10.1101/2025.11.17.686825 ), 2025
+
+We looked into evolution of colibactin production in _E. coli_ and found that multi-drug resistant, colibactin non-producing lineages that are endemic in high-income countries have co-evolved with endemic colibactin producers by acquiring colibactin resistance genes before undergoing clonal expansions. Our study shows that the colibactin production genes are similarly derived from a mobile element origin, and are under strong purifying and balancing selection that maintains two conserved majority-minority variants of colibactin in the _E. coli_ population.
+
 __Sequence alignment with _k_-bounded matching statistics__  
 [pre-print available at bioRxiv](https://doi.org/10.1101/2025.05.19.654936), 2025
 

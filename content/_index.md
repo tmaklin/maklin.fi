@@ -21,6 +21,11 @@ You can reach me at <script src="js/contact_me.js"></script><noscript>[Turn on J
     <tr>
         <td class="tg-0lax">2025-05-26</td>
         <td class="tg-0lax">&nbsp;&mdash;&nbsp;</td>
+        <td class="tg-0lax">New preprint: <a href="https://doi.org/10.1101/2025.11.17.686825 ">Co-evolution between colibactin production and resistance is linked to clonal expansions in <i>Escherichia coli</i></a></td>
+    </tr>
+    <tr>
+        <td class="tg-0lax">2025-05-26</td>
+        <td class="tg-0lax">&nbsp;&mdash;&nbsp;</td>
         <td class="tg-0lax">New preprint: <a href="https://doi.org/10.1101/2025.05.19.654936">Sequence alignment with <i>k</i>-bounded matching statistics</a></td>
     </tr>
     <tr>
@@ -37,11 +42,6 @@ You can reach me at <script src="js/contact_me.js"></script><noscript>[Turn on J
         <td class="tg-0lax">2023-12-12</td>
         <td class="tg-0lax">&nbsp;&mdash;&nbsp;</td>
         <td class="tg-0lax">Blog: <a href="/post/software-development/2023-12-12_cross-compiling-c++-binaries-for-macos-x86_64-and-arm64/">Cross-compiling C++ binaries for macOS arm64 and x86_64</a></td>
-    </tr>
-    <tr>
-        <td class="tg-0lax">2023-10-22</td>
-        <td class="tg-0lax">&nbsp;&mdash;&nbsp;</td>
-        <td class="tg-0lax">Blog: <a href="/post/sysadmin/2023-10-22_how-to-add-services-on-openbsd/">How to cleanly add services on OpenBSD</a></td>
     </tr>
     </tbody>
 </table>

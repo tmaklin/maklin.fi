@@ -80,6 +80,10 @@ Tax Administration and consulted small organizations.
 &nbsp;
 Preprints
 
+: Co-evolution between colibactin production and resistance is linked to clonal expansions in _Escherichia coli_  
+__M&auml;klin__, Calland, Mallawaarachchi, Thorpe, Gladstone, and&nbsp;Corander  
+*preprint* (2025), available at *bioRxiv*: [10.1101/2025.11.17.686825](https://doi.org/10.1101/2025.11.17.686825)
+
 : A more complete picture: Capturing single nucleotide variant diversity in extended-spectrum beta-lactamase producing _Escherichia coli_ using post-enrichment metagenomics  
 Gallichan, __M&auml;klin__, Picton-Barlow, McKeown, Forrest, Corander, Moore, Feasey, Heinz, Graf, and&nbsp;Lewis  
 *preprint* (2025), available at *medRxiv*: [10.1101/2025.11.12.25340063](https://doi.org/10.1101/2025.11.12.25340063)
