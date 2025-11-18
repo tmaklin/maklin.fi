@@ -1,2 +1,13 @@
-Contact: https://maklin.fi/contact
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Contact: mailto:tommi@maklin.fi
+Encryption: https://maklin.fi/keys/keys/tommi@maklin.fi-0x5EB7BC3E25646104-pub.asc
 Preferred-languages: en, fi
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQQiqcjN0pGDTvLi+Klet7w+JWRhBAUCaRyb8wAKCRBet7w+JWRh
+BNLeAP0WeF7fW0yU2SY9YcVFj2qGtIuv2u61WX7/LXJrb4njDwD7BFcVspc8GcxT
+EWu5JgwlagarHmkG1IPdZSz6e7IPwAg=
+=VAdh
+-----END PGP SIGNATURE-----
