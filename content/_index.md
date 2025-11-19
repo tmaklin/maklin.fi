@@ -19,7 +19,7 @@ You can reach me at <script src="js/contact_me.js"></script><noscript>[Turn on J
 <table class="tg">
     <tbody>
     <tr>
-        <td class="tg-0lax">2025-05-26</td>
+        <td class="tg-0lax">2025-11-17</td>
         <td class="tg-0lax">&nbsp;&mdash;&nbsp;</td>
         <td class="tg-0lax">New preprint: <a href="https://doi.org/10.1101/2025.11.17.686825 ">Co-evolution between colibactin production and resistance is linked to clonal expansions in <i>Escherichia coli</i></a></td>
     </tr>
