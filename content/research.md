@@ -9,7 +9,7 @@ genomic epidemiology of Enterobacteriaceae, strain-level metagenomics, and
 statistical modelling related to these.
 
 I am currently working on the following projects:
-- Ecology and evolution of colibactin production in _E. coli_.
+- Ecology and evolution of [colibactin production in _E. coli_](https://doi.org/10.1101/2025.11.17.686825).
 - Carriage and global diversity of _E. coli_ in gut microbiome data.
 - Algorithms based on _k_-bounded matching statistics: [alignment](https://doi.org/10.1101/2025.05.19.654936) and [compression](https://github.com/tmaklin/ntcomp).
 - Scaling up pseudoalignment and sweep metagenomics with [better formats](https://github.com/tmaklin/ahda).
