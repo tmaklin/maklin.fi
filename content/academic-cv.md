@@ -231,7 +231,8 @@ Board member, 2020--2021
 
 Peer review
 
-: 2025 *Microbial genomics*, *Nature communications*  
+: 2026 *Genome biology*,  
+2025 *Microbial genomics*, *Nature communications*  
 2024 *Journal of open source software, Microbiome*, ECML PKDD  
 2023 *Genome biology, Nature communications, Microbiome*  
 2022 *BMC microbiology*  
